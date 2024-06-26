@@ -1,0 +1,1001 @@
+Sexo,raça,educação dos pais,Tipo de almoço,Curso,Nota em matemática,Nota em leitura,Nota em escrita
+F,group B,Superior,padrao,nao concluido,72,72,74
+F,group C,Superior (Incompleto),padrao,concluido,69,90,88
+F,group B,Mestrado,padrao,nao concluido,90,95,93
+M,group A,Tecnólogo,gratis/reduzido,nao concluido,47,57,44
+M,group C,Superior (Incompleto),padrao,nao concluido,76,78,75
+F,group B,Tecnólogo,padrao,nao concluido,71,83,78
+F,group B,Superior (Incompleto),padrao,concluido,88,95,92
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,40,43,39
+M,group D,Ensino Médio,gratis/reduzido,concluido,64,64,67
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,38,60,50
+M,group C,Tecnólogo,padrao,nao concluido,58,54,52
+M,group D,Tecnólogo,padrao,nao concluido,40,52,43
+F,group B,Ensino Médio,padrao,nao concluido,65,81,73
+M,group A,Superior (Incompleto),padrao,concluido,78,72,70
+F,group A,Mestrado,padrao,nao concluido,50,53,58
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,69,75,78
+M,group C,Ensino Médio,padrao,nao concluido,88,89,86
+F,group B,Ensino Médio (incompleto),gratis/reduzido,nao concluido,18,32,28
+M,group C,Mestrado,gratis/reduzido,concluido,46,42,46
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,54,58,61
+M,group D,Ensino Médio,padrao,nao concluido,66,69,63
+F,group B,Superior (Incompleto),gratis/reduzido,concluido,65,75,70
+M,group D,Superior (Incompleto),padrao,nao concluido,44,54,53
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,69,73,73
+M,group D,Superior,gratis/reduzido,concluido,74,71,80
+M,group A,Mestrado,gratis/reduzido,nao concluido,73,74,72
+M,group B,Superior (Incompleto),padrao,nao concluido,69,54,55
+F,group C,Superior,padrao,nao concluido,67,69,75
+M,group C,Ensino Médio,padrao,nao concluido,70,70,65
+F,group D,Mestrado,padrao,nao concluido,62,70,75
+F,group D,Superior (Incompleto),padrao,nao concluido,69,74,74
+F,group B,Superior (Incompleto),padrao,nao concluido,63,65,61
+F,group E,Mestrado,gratis/reduzido,nao concluido,56,72,65
+M,group D,Superior (Incompleto),padrao,nao concluido,40,42,38
+M,group E,Superior (Incompleto),padrao,nao concluido,97,87,82
+M,group E,Tecnólogo,padrao,concluido,81,81,79
+F,group D,Tecnólogo,padrao,nao concluido,74,81,83
+F,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,50,64,59
+F,group D,Tecnólogo,gratis/reduzido,concluido,75,90,88
+M,group B,Tecnólogo,gratis/reduzido,nao concluido,57,56,57
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,55,61,54
+F,group C,Tecnólogo,padrao,nao concluido,58,73,68
+F,group B,Tecnólogo,padrao,nao concluido,53,58,65
+M,group B,Superior (Incompleto),gratis/reduzido,concluido,59,65,66
+F,group E,Tecnólogo,gratis/reduzido,nao concluido,50,56,54
+M,group B,Tecnólogo,padrao,nao concluido,65,54,57
+F,group A,Tecnólogo,padrao,concluido,55,65,62
+F,group C,Ensino Médio,padrao,nao concluido,66,71,76
+F,group D,Tecnólogo,gratis/reduzido,concluido,57,74,76
+M,group C,Ensino Médio,padrao,concluido,82,84,82
+M,group E,Superior (Incompleto),padrao,nao concluido,53,55,48
+M,group E,Tecnólogo,gratis/reduzido,concluido,77,69,68
+M,group C,Superior (Incompleto),padrao,nao concluido,53,44,42
+M,group D,Ensino Médio,padrao,nao concluido,88,78,75
+F,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,71,84,87
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,33,41,43
+F,group E,Tecnólogo,padrao,concluido,82,85,86
+M,group D,Tecnólogo,padrao,nao concluido,52,55,49
+M,group D,Superior (Incompleto),padrao,concluido,58,59,58
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,0,17,10
+M,group E,Superior,gratis/reduzido,concluido,79,74,72
+M,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,39,39,34
+M,group A,Tecnólogo,gratis/reduzido,nao concluido,62,61,55
+F,group C,Tecnólogo,padrao,nao concluido,69,80,71
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,59,58,59
+M,group B,Ensino Médio (incompleto),padrao,nao concluido,67,64,61
+M,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,45,37,37
+F,group C,Superior (Incompleto),padrao,nao concluido,60,72,74
+M,group B,Tecnólogo,gratis/reduzido,nao concluido,61,58,56
+F,group C,Tecnólogo,padrao,nao concluido,39,64,57
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,58,63,73
+M,group D,Superior (Incompleto),padrao,concluido,63,55,63
+F,group A,Tecnólogo,gratis/reduzido,nao concluido,41,51,48
+M,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,61,57,56
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,49,49,41
+M,group B,Tecnólogo,gratis/reduzido,nao concluido,44,41,38
+M,group E,Ensino Médio (incompleto),padrao,nao concluido,30,26,22
+M,group A,Superior,padrao,concluido,80,78,81
+F,group D,Ensino Médio (incompleto),padrao,concluido,61,74,72
+F,group E,Mestrado,padrao,nao concluido,62,68,68
+F,group B,Tecnólogo,padrao,nao concluido,47,49,50
+M,group B,Ensino Médio,gratis/reduzido,nao concluido,49,45,45
+M,group A,Superior (Incompleto),gratis/reduzido,concluido,50,47,54
+M,group E,Tecnólogo,padrao,nao concluido,72,64,63
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,42,39,34
+F,group C,Superior (Incompleto),padrao,nao concluido,73,80,82
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,76,83,88
+F,group D,Tecnólogo,padrao,nao concluido,71,71,74
+F,group A,Superior (Incompleto),padrao,nao concluido,58,70,67
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,73,86,82
+F,group C,Superior,padrao,nao concluido,65,72,74
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,27,34,36
+M,group C,Ensino Médio,padrao,nao concluido,71,79,71
+M,group C,Tecnólogo,gratis/reduzido,concluido,43,45,50
+F,group B,Superior (Incompleto),padrao,nao concluido,79,86,92
+M,group C,Tecnólogo,gratis/reduzido,concluido,78,81,82
+M,group B,Ensino Médio (incompleto),padrao,concluido,65,66,62
+F,group E,Superior (Incompleto),padrao,concluido,63,72,70
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,58,67,62
+F,group D,Superior,padrao,nao concluido,65,67,62
+M,group B,Superior (Incompleto),padrao,nao concluido,79,67,67
+M,group D,Superior,padrao,concluido,68,74,74
+F,group D,Tecnólogo,padrao,nao concluido,85,91,89
+M,group B,Ensino Médio,padrao,concluido,60,44,47
+M,group C,Superior (Incompleto),padrao,concluido,98,86,90
+F,group C,Superior (Incompleto),padrao,nao concluido,58,67,72
+F,group D,Mestrado,padrao,nao concluido,87,100,100
+M,group E,Tecnólogo,padrao,concluido,66,63,64
+F,group B,Tecnólogo,gratis/reduzido,nao concluido,52,76,70
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,70,64,72
+F,group D,Tecnólogo,gratis/reduzido,concluido,77,89,98
+M,group C,Ensino Médio,padrao,nao concluido,62,55,49
+M,group A,Tecnólogo,padrao,nao concluido,54,53,47
+F,group D,Superior (Incompleto),padrao,nao concluido,51,58,54
+F,group E,Superior,padrao,concluido,99,100,100
+M,group C,Ensino Médio,padrao,nao concluido,84,77,74
+F,group B,Superior,gratis/reduzido,nao concluido,75,85,82
+F,group D,Superior,padrao,nao concluido,78,82,79
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,51,63,61
+F,group C,Superior (Incompleto),padrao,nao concluido,55,69,65
+F,group C,Superior,padrao,concluido,79,92,89
+M,group B,Tecnólogo,padrao,concluido,91,89,92
+F,group C,Superior (Incompleto),padrao,concluido,88,93,93
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,63,57,56
+M,group E,Superior (Incompleto),padrao,nao concluido,83,80,73
+F,group B,Ensino Médio,padrao,nao concluido,87,95,86
+M,group B,Ensino Médio (incompleto),padrao,nao concluido,72,68,67
+M,group D,Superior (Incompleto),padrao,concluido,65,77,74
+M,group D,Mestrado,padrao,nao concluido,82,82,74
+F,group A,Superior,padrao,nao concluido,51,49,51
+M,group D,Mestrado,padrao,nao concluido,89,84,82
+M,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,53,37,40
+M,group E,Superior (Incompleto),gratis/reduzido,concluido,87,74,70
+F,group C,Superior (Incompleto),padrao,concluido,75,81,84
+M,group D,Superior,gratis/reduzido,concluido,74,79,75
+M,group C,Superior,padrao,nao concluido,58,55,48
+M,group B,Ensino Médio (incompleto),padrao,concluido,51,54,41
+M,group E,Ensino Médio,padrao,nao concluido,70,55,56
+F,group C,Tecnólogo,padrao,nao concluido,59,66,67
+M,group D,Superior (Incompleto),padrao,concluido,71,61,69
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,76,72,71
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,59,62,64
+F,group E,Superior (Incompleto),gratis/reduzido,concluido,42,55,54
+M,group A,Ensino Médio,padrao,nao concluido,57,43,47
+M,group D,Superior (Incompleto),padrao,nao concluido,88,73,78
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,22,39,33
+M,group B,Ensino Médio (incompleto),padrao,nao concluido,88,84,75
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,73,68,66
+F,group D,Superior,padrao,concluido,68,75,81
+M,group E,Tecnólogo,gratis/reduzido,concluido,100,100,93
+M,group A,Ensino Médio (incompleto),padrao,concluido,62,67,69
+M,group A,Superior,padrao,nao concluido,77,67,68
+F,group B,Tecnólogo,padrao,concluido,59,70,66
+M,group D,Superior,padrao,nao concluido,54,49,47
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,62,67,61
+F,group C,Superior (Incompleto),padrao,concluido,70,89,88
+F,group E,Ensino Médio,gratis/reduzido,concluido,66,74,78
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,60,60,60
+F,group B,Tecnólogo,padrao,concluido,61,86,87
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,66,62,64
+M,group B,Tecnólogo,gratis/reduzido,concluido,82,78,74
+F,group E,Superior (Incompleto),gratis/reduzido,concluido,75,88,85
+M,group B,Mestrado,gratis/reduzido,nao concluido,49,53,52
+M,group C,Ensino Médio,padrao,nao concluido,52,53,49
+F,group E,Mestrado,padrao,nao concluido,81,92,91
+F,group C,Superior,padrao,concluido,96,100,100
+M,group C,Ensino Médio,gratis/reduzido,concluido,53,51,51
+F,group B,Mestrado,gratis/reduzido,concluido,58,76,78
+F,group B,Ensino Médio,padrao,concluido,68,83,78
+F,group C,Superior (Incompleto),gratis/reduzido,concluido,67,75,70
+M,group A,Ensino Médio,padrao,concluido,72,73,74
+M,group E,Ensino Médio (incompleto),padrao,nao concluido,94,88,78
+F,group D,Superior (Incompleto),padrao,nao concluido,79,86,81
+F,group C,Tecnólogo,padrao,nao concluido,63,67,70
+F,group C,Superior,gratis/reduzido,concluido,43,51,54
+F,group C,Mestrado,padrao,concluido,81,91,87
+F,group B,Ensino Médio,gratis/reduzido,concluido,46,54,58
+F,group C,Tecnólogo,padrao,concluido,71,77,77
+F,group B,Mestrado,gratis/reduzido,concluido,52,70,62
+F,group D,Ensino Médio (incompleto),padrao,concluido,97,100,100
+M,group C,Mestrado,gratis/reduzido,concluido,62,68,75
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,46,64,66
+F,group E,Ensino Médio,padrao,nao concluido,50,50,47
+F,group D,Tecnólogo,padrao,nao concluido,65,69,70
+M,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,45,52,49
+M,group C,Tecnólogo,gratis/reduzido,concluido,65,67,65
+M,group E,Ensino Médio,padrao,nao concluido,80,76,65
+M,group D,Ensino Médio (incompleto),padrao,concluido,62,66,68
+M,group B,Ensino Médio (incompleto),gratis/reduzido,nao concluido,48,52,45
+F,group C,Superior,padrao,nao concluido,77,88,87
+F,group E,Tecnólogo,padrao,nao concluido,66,65,69
+M,group D,Superior (Incompleto),padrao,concluido,76,83,79
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,62,64,66
+M,group D,Superior (Incompleto),padrao,concluido,77,62,62
+F,group C,Mestrado,padrao,concluido,69,84,85
+M,group D,Tecnólogo,padrao,nao concluido,61,55,52
+M,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,59,69,65
+M,group E,Ensino Médio,gratis/reduzido,nao concluido,55,56,51
+F,group B,Superior (Incompleto),gratis/reduzido,nao concluido,45,53,55
+F,group B,Superior,gratis/reduzido,nao concluido,78,79,76
+F,group C,Tecnólogo,padrao,concluido,67,84,86
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,65,81,77
+M,group C,Tecnólogo,padrao,nao concluido,69,77,69
+F,group B,Tecnólogo,padrao,nao concluido,57,69,68
+M,group C,Superior (Incompleto),padrao,nao concluido,59,41,42
+M,group D,Ensino Médio (incompleto),padrao,concluido,74,71,78
+M,group E,Superior,padrao,nao concluido,82,62,62
+M,group E,Ensino Médio,padrao,concluido,81,80,76
+F,group B,Superior (Incompleto),gratis/reduzido,nao concluido,74,81,76
+F,group B,Superior (Incompleto),gratis/reduzido,nao concluido,58,61,66
+M,group D,Ensino Médio (incompleto),gratis/reduzido,concluido,80,79,79
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,35,28,27
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,42,62,60
+M,group C,Tecnólogo,gratis/reduzido,concluido,60,51,56
+M,group E,Ensino Médio,padrao,concluido,87,91,81
+M,group B,Ensino Médio (incompleto),padrao,concluido,84,83,75
+F,group E,Tecnólogo,gratis/reduzido,concluido,83,86,88
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,34,42,39
+M,group B,Ensino Médio,gratis/reduzido,nao concluido,66,77,70
+M,group B,Ensino Médio (incompleto),padrao,concluido,61,56,56
+F,group D,Ensino Médio,padrao,concluido,56,68,74
+M,group B,Tecnólogo,padrao,nao concluido,87,85,73
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,55,65,62
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,86,80,75
+F,group B,Tecnólogo,padrao,concluido,52,66,73
+F,group E,Mestrado,gratis/reduzido,nao concluido,45,56,54
+F,group C,Superior (Incompleto),padrao,nao concluido,72,72,71
+M,group D,Ensino Médio,padrao,nao concluido,57,50,54
+M,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,68,72,64
+F,group C,Superior (Incompleto),padrao,concluido,88,95,94
+M,group D,Superior (Incompleto),padrao,nao concluido,76,64,66
+M,group C,Tecnólogo,padrao,nao concluido,46,43,42
+F,group B,Superior,padrao,nao concluido,67,86,83
+M,group E,Ensino Médio (incompleto),padrao,nao concluido,92,87,78
+M,group C,Superior,padrao,concluido,83,82,84
+M,group D,Tecnólogo,padrao,nao concluido,80,75,77
+M,group D,Superior,gratis/reduzido,nao concluido,63,66,67
+F,group D,Ensino Médio (incompleto),padrao,concluido,64,60,74
+M,group B,Superior (Incompleto),padrao,nao concluido,54,52,51
+M,group C,Tecnólogo,padrao,nao concluido,84,80,80
+M,group D,Ensino Médio,gratis/reduzido,concluido,73,68,66
+F,group E,Superior,padrao,nao concluido,80,83,83
+F,group D,Ensino Médio,padrao,nao concluido,56,52,55
+M,group E,Superior (Incompleto),padrao,nao concluido,59,51,43
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,75,74,69
+M,group C,Tecnólogo,padrao,nao concluido,85,76,71
+M,group E,Tecnólogo,padrao,nao concluido,89,76,74
+F,group B,Ensino Médio,padrao,concluido,58,70,68
+F,group B,Ensino Médio,padrao,nao concluido,65,64,62
+M,group C,Ensino Médio,padrao,nao concluido,68,60,53
+M,group A,Ensino Médio (incompleto),padrao,concluido,47,49,49
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,71,83,83
+F,group B,Ensino Médio (incompleto),padrao,concluido,60,70,70
+M,group D,Mestrado,padrao,nao concluido,80,80,72
+M,group D,Ensino Médio,padrao,nao concluido,54,52,52
+F,group E,Superior (Incompleto),padrao,nao concluido,62,73,70
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,64,73,68
+M,group C,Tecnólogo,padrao,concluido,78,77,77
+F,group B,Superior (Incompleto),padrao,nao concluido,70,75,78
+F,group C,Mestrado,gratis/reduzido,concluido,65,81,81
+F,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,64,79,77
+M,group C,Superior (Incompleto),padrao,concluido,79,79,78
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,44,50,51
+F,group E,Ensino Médio,padrao,nao concluido,99,93,90
+M,group D,Ensino Médio,padrao,nao concluido,76,73,68
+M,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,59,42,41
+F,group C,Superior,padrao,nao concluido,63,75,81
+F,group D,Ensino Médio,padrao,nao concluido,69,72,77
+F,group D,Tecnólogo,padrao,concluido,88,92,95
+F,group E,Superior (Incompleto),gratis/reduzido,nao concluido,71,76,70
+M,group C,Superior,padrao,nao concluido,69,63,61
+M,group C,Superior (Incompleto),padrao,nao concluido,58,49,42
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,47,53,58
+F,group D,Superior (Incompleto),padrao,nao concluido,65,70,71
+M,group B,Superior (Incompleto),padrao,concluido,88,85,76
+M,group C,Superior,padrao,nao concluido,83,78,73
+F,group C,Ensino Médio (incompleto),padrao,concluido,85,92,93
+F,group E,Ensino Médio,padrao,concluido,59,63,75
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,65,86,80
+M,group B,Superior,gratis/reduzido,nao concluido,73,56,57
+M,group D,Ensino Médio,padrao,nao concluido,53,52,42
+M,group D,Ensino Médio,padrao,nao concluido,45,48,46
+F,group D,Superior,gratis/reduzido,nao concluido,73,79,84
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,70,78,78
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,37,46,46
+M,group B,Tecnólogo,padrao,concluido,81,82,82
+M,group E,Tecnólogo,padrao,concluido,97,82,88
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,67,89,82
+M,group B,Superior,gratis/reduzido,nao concluido,88,75,76
+M,group E,Ensino Médio (incompleto),padrao,concluido,77,76,77
+M,group C,Tecnólogo,padrao,nao concluido,76,70,68
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,86,73,70
+M,group C,Ensino Médio (incompleto),padrao,concluido,63,60,57
+F,group E,Superior,padrao,nao concluido,65,73,75
+M,group D,Ensino Médio,gratis/reduzido,concluido,78,77,80
+M,group B,Tecnólogo,gratis/reduzido,nao concluido,67,62,60
+M,group A,Ensino Médio (incompleto),padrao,concluido,46,41,43
+M,group E,Tecnólogo,padrao,concluido,71,74,68
+M,group C,Ensino Médio,gratis/reduzido,concluido,40,46,50
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,90,87,75
+M,group A,Superior (Incompleto),gratis/reduzido,concluido,81,78,81
+M,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,56,54,52
+F,group C,Tecnólogo,padrao,concluido,67,84,81
+M,group B,Tecnólogo,padrao,nao concluido,80,76,64
+F,group C,Tecnólogo,padrao,concluido,74,75,83
+M,group A,Superior (Incompleto),padrao,nao concluido,69,67,69
+M,group E,Superior (Incompleto),padrao,concluido,99,87,81
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,51,52,44
+F,group B,Tecnólogo,gratis/reduzido,nao concluido,53,71,67
+F,group D,Ensino Médio,gratis/reduzido,nao concluido,49,57,52
+F,group B,Tecnólogo,padrao,nao concluido,73,76,80
+M,group B,Superior,padrao,nao concluido,66,60,57
+M,group D,Superior,padrao,concluido,67,61,68
+F,group C,Tecnólogo,gratis/reduzido,concluido,68,67,69
+F,group C,Superior,padrao,concluido,59,64,75
+M,group C,Ensino Médio,padrao,nao concluido,71,66,65
+F,group D,Mestrado,padrao,concluido,77,82,91
+M,group C,Tecnólogo,padrao,nao concluido,83,72,78
+M,group B,Superior,padrao,nao concluido,63,71,69
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,56,65,63
+F,group C,Ensino Médio,gratis/reduzido,concluido,67,79,84
+F,group E,Ensino Médio,padrao,nao concluido,75,86,79
+F,group C,Superior (Incompleto),padrao,nao concluido,71,81,80
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,43,53,53
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,41,46,43
+F,group C,Superior (Incompleto),padrao,nao concluido,82,90,94
+M,group C,Superior (Incompleto),padrao,nao concluido,61,61,62
+M,group A,Superior (Incompleto),gratis/reduzido,nao concluido,28,23,19
+M,group C,Tecnólogo,padrao,concluido,82,75,77
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,41,55,51
+M,group C,Ensino Médio,padrao,nao concluido,71,60,61
+M,group C,Tecnólogo,padrao,nao concluido,47,37,35
+M,group E,Tecnólogo,padrao,concluido,62,56,53
+M,group B,Tecnólogo,padrao,nao concluido,90,78,81
+F,group C,Superior,padrao,nao concluido,83,93,95
+F,group B,Superior (Incompleto),gratis/reduzido,nao concluido,61,68,66
+M,group D,Ensino Médio (incompleto),padrao,concluido,76,70,69
+M,group C,Tecnólogo,padrao,nao concluido,49,51,43
+F,group B,Ensino Médio (incompleto),gratis/reduzido,nao concluido,24,38,27
+F,group D,Ensino Médio (incompleto),gratis/reduzido,concluido,35,55,60
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,58,61,52
+F,group C,Ensino Médio,padrao,nao concluido,61,73,63
+F,group B,Ensino Médio,padrao,concluido,69,76,74
+M,group D,Tecnólogo,padrao,concluido,67,72,67
+M,group D,Superior (Incompleto),padrao,nao concluido,79,73,67
+F,group C,Ensino Médio,padrao,nao concluido,72,80,75
+M,group B,Superior (Incompleto),padrao,nao concluido,62,61,57
+F,group C,Superior,padrao,concluido,77,94,95
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,75,74,66
+M,group E,Tecnólogo,padrao,nao concluido,87,74,76
+F,group B,Superior,padrao,nao concluido,52,65,69
+M,group E,Superior (Incompleto),padrao,nao concluido,66,57,52
+F,group C,Superior (Incompleto),padrao,concluido,63,78,80
+F,group C,Tecnólogo,padrao,nao concluido,46,58,57
+F,group C,Superior (Incompleto),padrao,nao concluido,59,71,70
+F,group B,Superior,padrao,nao concluido,61,72,70
+M,group A,Tecnólogo,padrao,nao concluido,63,61,61
+F,group C,Superior (Incompleto),gratis/reduzido,concluido,42,66,69
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,59,62,61
+F,group D,Superior (Incompleto),padrao,nao concluido,80,90,89
+F,group B,Ensino Médio,padrao,nao concluido,58,62,59
+M,group B,Ensino Médio (incompleto),padrao,concluido,85,84,78
+F,group C,Superior (Incompleto),padrao,nao concluido,52,58,58
+F,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,27,34,32
+M,group C,Superior (Incompleto),padrao,nao concluido,59,60,58
+M,group A,Superior,gratis/reduzido,concluido,49,58,60
+M,group C,Ensino Médio,padrao,concluido,69,58,53
+M,group C,Superior,gratis/reduzido,nao concluido,61,66,61
+F,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,44,64,58
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,73,84,85
+M,group E,Superior (Incompleto),padrao,nao concluido,84,77,71
+F,group C,Superior (Incompleto),gratis/reduzido,concluido,45,73,70
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,74,74,72
+F,group D,Superior (Incompleto),padrao,concluido,82,97,96
+F,group D,Superior,padrao,nao concluido,59,70,73
+M,group E,Tecnólogo,gratis/reduzido,nao concluido,46,43,41
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,80,90,82
+F,group D,Mestrado,gratis/reduzido,concluido,85,95,100
+F,group A,Ensino Médio (incompleto),padrao,nao concluido,71,83,77
+M,group A,Superior,padrao,nao concluido,66,64,62
+F,group B,Tecnólogo,padrao,nao concluido,80,86,83
+M,group C,Tecnólogo,padrao,concluido,87,100,95
+M,group C,Mestrado,gratis/reduzido,nao concluido,79,81,71
+F,group E,Ensino Médio (incompleto),gratis/reduzido,nao concluido,38,49,45
+F,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,38,43,43
+F,group E,Superior (Incompleto),padrao,nao concluido,67,76,75
+F,group E,Superior,padrao,nao concluido,64,73,70
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,57,78,67
+F,group D,Ensino Médio,padrao,nao concluido,62,64,64
+M,group D,Mestrado,padrao,nao concluido,73,70,75
+M,group E,Ensino Médio (incompleto),gratis/reduzido,concluido,73,67,59
+F,group D,Superior (Incompleto),padrao,nao concluido,77,68,77
+M,group E,Superior (Incompleto),padrao,nao concluido,76,67,67
+M,group C,Tecnólogo,padrao,concluido,57,54,56
+F,group C,Ensino Médio (incompleto),padrao,concluido,65,74,77
+M,group A,Ensino Médio,gratis/reduzido,nao concluido,48,45,41
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,50,67,63
+F,group C,Tecnólogo,padrao,nao concluido,85,89,95
+M,group B,Ensino Médio (incompleto),padrao,nao concluido,74,63,57
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,60,59,54
+F,group C,Ensino Médio (incompleto),padrao,concluido,59,54,67
+M,group A,Superior (Incompleto),padrao,nao concluido,53,43,43
+F,group A,Superior (Incompleto),gratis/reduzido,nao concluido,49,65,55
+F,group D,Ensino Médio,padrao,concluido,88,99,100
+F,group C,Ensino Médio,padrao,nao concluido,54,59,62
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,63,73,68
+M,group B,Tecnólogo,padrao,concluido,65,65,63
+F,group B,Tecnólogo,padrao,nao concluido,82,80,77
+F,group D,Ensino Médio,gratis/reduzido,concluido,52,57,56
+M,group D,Tecnólogo,padrao,concluido,87,84,85
+F,group D,Mestrado,padrao,concluido,70,71,74
+M,group E,Superior (Incompleto),padrao,concluido,84,83,78
+M,group D,Tecnólogo,padrao,nao concluido,71,66,60
+M,group B,Ensino Médio (incompleto),padrao,concluido,63,67,67
+F,group C,Superior,gratis/reduzido,concluido,51,72,79
+M,group E,Ensino Médio,padrao,nao concluido,84,73,69
+M,group C,Superior,padrao,concluido,71,74,68
+M,group C,Tecnólogo,padrao,nao concluido,74,73,67
+M,group D,Superior (Incompleto),padrao,nao concluido,68,59,62
+M,group E,Ensino Médio,gratis/reduzido,concluido,57,56,54
+F,group C,Tecnólogo,gratis/reduzido,concluido,82,93,93
+F,group D,Ensino Médio,padrao,concluido,57,58,64
+F,group D,Mestrado,gratis/reduzido,concluido,47,58,67
+F,group A,Ensino Médio (incompleto),padrao,concluido,59,85,80
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,41,39,34
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,62,67,62
+M,group C,Superior,padrao,nao concluido,86,83,86
+M,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,69,71,65
+M,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,65,59,53
+M,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,68,63,54
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,64,66,59
+F,group C,Ensino Médio,padrao,nao concluido,61,72,70
+M,group C,Ensino Médio,padrao,nao concluido,61,56,55
+F,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,47,59,50
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,73,66,66
+M,group C,Superior (Incompleto),gratis/reduzido,concluido,50,48,53
+M,group D,Tecnólogo,padrao,nao concluido,75,68,64
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,75,66,73
+M,group C,Ensino Médio,padrao,nao concluido,70,56,51
+M,group D,Ensino Médio (incompleto),padrao,concluido,89,88,82
+F,group C,Superior (Incompleto),padrao,concluido,67,81,79
+F,group D,Ensino Médio,padrao,nao concluido,78,81,80
+F,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,59,73,69
+F,group B,Tecnólogo,padrao,nao concluido,73,83,76
+M,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,79,82,73
+F,group C,Ensino Médio (incompleto),padrao,concluido,67,74,77
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,69,66,60
+M,group C,Ensino Médio,padrao,concluido,86,81,80
+M,group B,Ensino Médio,padrao,nao concluido,47,46,42
+M,group B,Tecnólogo,padrao,nao concluido,81,73,72
+F,group C,Superior (Incompleto),gratis/reduzido,concluido,64,85,85
+F,group E,Superior (Incompleto),padrao,nao concluido,100,92,97
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,65,77,74
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,65,58,49
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,53,61,62
+M,group C,Superior,gratis/reduzido,nao concluido,37,56,47
+F,group D,Superior,padrao,nao concluido,79,89,89
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,53,54,48
+F,group E,Superior,padrao,nao concluido,100,100,100
+M,group B,Ensino Médio,padrao,concluido,72,65,68
+M,group C,Superior,gratis/reduzido,nao concluido,53,58,55
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,54,54,45
+F,group E,Superior (Incompleto),padrao,nao concluido,71,70,76
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,77,90,91
+M,group A,Superior,padrao,concluido,75,58,62
+F,group C,Superior (Incompleto),padrao,nao concluido,84,87,91
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,26,31,38
+M,group A,Ensino Médio,gratis/reduzido,concluido,72,67,65
+F,group A,Ensino Médio,gratis/reduzido,concluido,77,88,85
+M,group C,Superior (Incompleto),padrao,nao concluido,91,74,76
+F,group C,Tecnólogo,padrao,concluido,83,85,90
+F,group C,Ensino Médio,padrao,nao concluido,63,69,74
+F,group C,Tecnólogo,padrao,concluido,68,86,84
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,59,67,61
+F,group B,Tecnólogo,padrao,concluido,90,90,91
+F,group D,Superior,padrao,concluido,71,76,83
+M,group E,Superior,padrao,concluido,76,62,66
+M,group D,Tecnólogo,padrao,nao concluido,80,68,72
+F,group D,Mestrado,padrao,nao concluido,55,64,70
+M,group E,Tecnólogo,padrao,nao concluido,76,71,67
+M,group B,Ensino Médio,padrao,concluido,73,71,68
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,52,59,56
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,68,68,61
+M,group A,Ensino Médio,padrao,nao concluido,59,52,46
+F,group B,Tecnólogo,padrao,nao concluido,49,52,54
+M,group C,Ensino Médio,padrao,nao concluido,70,74,71
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,61,47,56
+F,group C,Tecnólogo,gratis/reduzido,nao concluido,60,75,74
+M,group B,Ensino Médio (incompleto),padrao,concluido,64,53,57
+M,group A,Tecnólogo,gratis/reduzido,concluido,79,82,82
+F,group A,Tecnólogo,gratis/reduzido,nao concluido,65,85,76
+F,group C,Tecnólogo,padrao,nao concluido,64,64,70
+F,group C,Superior (Incompleto),padrao,nao concluido,83,83,90
+F,group C,Superior,padrao,nao concluido,81,88,90
+F,group B,Ensino Médio,padrao,nao concluido,54,64,68
+M,group D,Ensino Médio,padrao,concluido,68,64,66
+F,group C,Superior (Incompleto),padrao,nao concluido,54,48,52
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,59,78,76
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,66,69,68
+M,group E,Superior (Incompleto),padrao,nao concluido,76,71,72
+F,group D,Mestrado,padrao,nao concluido,74,79,82
+F,group B,Tecnólogo,padrao,concluido,94,87,92
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,63,61,54
+F,group E,Tecnólogo,padrao,concluido,95,89,92
+F,group D,Mestrado,gratis/reduzido,nao concluido,40,59,54
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,82,82,80
+M,group A,Ensino Médio,padrao,nao concluido,68,70,66
+M,group B,Superior,gratis/reduzido,nao concluido,55,59,54
+M,group C,Mestrado,padrao,nao concluido,79,78,77
+F,group C,Superior,padrao,nao concluido,86,92,87
+M,group D,Superior (Incompleto),padrao,nao concluido,76,71,73
+M,group A,Ensino Médio (incompleto),padrao,nao concluido,64,50,43
+M,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,62,49,52
+F,group B,Ensino Médio (incompleto),padrao,concluido,54,61,62
+F,group B,Mestrado,gratis/reduzido,concluido,77,97,94
+F,group C,Ensino Médio (incompleto),padrao,concluido,76,87,85
+F,group D,Superior (Incompleto),padrao,nao concluido,74,89,84
+F,group E,Superior (Incompleto),padrao,concluido,66,74,73
+F,group D,Ensino Médio (incompleto),padrao,concluido,66,78,78
+F,group B,Ensino Médio,gratis/reduzido,concluido,67,78,79
+M,group D,Superior (Incompleto),padrao,nao concluido,71,49,52
+F,group C,Tecnólogo,padrao,nao concluido,91,86,84
+M,group D,Superior,padrao,nao concluido,69,58,57
+M,group C,Mestrado,gratis/reduzido,nao concluido,54,59,50
+M,group C,Ensino Médio,padrao,concluido,53,52,49
+M,group E,Superior (Incompleto),padrao,nao concluido,68,60,59
+M,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,56,61,60
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,36,53,43
+F,group D,Superior,gratis/reduzido,nao concluido,29,41,47
+F,group C,Tecnólogo,padrao,nao concluido,62,74,70
+F,group C,Tecnólogo,padrao,concluido,68,67,73
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,47,54,53
+M,group E,Tecnólogo,padrao,concluido,62,61,58
+F,group E,Tecnólogo,padrao,concluido,79,88,94
+M,group B,Ensino Médio,padrao,concluido,73,69,68
+F,group C,Superior,gratis/reduzido,concluido,66,83,83
+M,group C,Tecnólogo,padrao,concluido,51,60,58
+F,group D,Ensino Médio,padrao,nao concluido,51,66,62
+M,group E,Superior,padrao,concluido,85,66,71
+M,group A,Tecnólogo,padrao,concluido,97,92,86
+M,group C,Ensino Médio,padrao,concluido,75,69,68
+M,group D,Tecnólogo,gratis/reduzido,concluido,79,82,80
+F,group C,Tecnólogo,padrao,nao concluido,81,77,79
+F,group D,Tecnólogo,padrao,nao concluido,82,95,89
+F,group D,Mestrado,padrao,nao concluido,64,63,66
+M,group E,Ensino Médio (incompleto),gratis/reduzido,concluido,78,83,80
+F,group A,Ensino Médio (incompleto),padrao,concluido,92,100,97
+M,group C,Ensino Médio,padrao,concluido,72,67,64
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,62,67,64
+M,group C,Mestrado,padrao,nao concluido,79,72,69
+M,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,79,76,65
+M,group B,Superior,gratis/reduzido,concluido,87,90,88
+F,group B,Tecnólogo,padrao,nao concluido,40,48,50
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,77,62,64
+M,group E,Tecnólogo,padrao,nao concluido,53,45,40
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,32,39,33
+F,group C,Tecnólogo,padrao,concluido,55,72,79
+M,group C,Mestrado,gratis/reduzido,nao concluido,61,67,66
+F,group B,Tecnólogo,gratis/reduzido,nao concluido,53,70,70
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,73,66,62
+F,group D,Superior (Incompleto),padrao,concluido,74,75,79
+F,group C,Superior (Incompleto),padrao,nao concluido,63,74,74
+M,group C,Superior,padrao,concluido,96,90,92
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,63,80,80
+M,group B,Superior,gratis/reduzido,nao concluido,48,51,46
+M,group B,Tecnólogo,padrao,nao concluido,48,43,45
+F,group E,Superior,gratis/reduzido,concluido,92,100,100
+F,group D,Mestrado,gratis/reduzido,concluido,61,71,78
+M,group B,Ensino Médio,gratis/reduzido,nao concluido,63,48,47
+M,group D,Superior,gratis/reduzido,nao concluido,68,68,67
+M,group B,Superior (Incompleto),padrao,concluido,71,75,70
+M,group A,Superior,padrao,nao concluido,91,96,92
+F,group C,Superior (Incompleto),padrao,nao concluido,53,62,56
+F,group C,Ensino Médio,gratis/reduzido,concluido,50,66,64
+F,group E,Ensino Médio,padrao,nao concluido,74,81,71
+M,group A,Tecnólogo,gratis/reduzido,concluido,40,55,53
+M,group A,Superior (Incompleto),padrao,concluido,61,51,52
+F,group B,Ensino Médio,padrao,nao concluido,81,91,89
+F,group B,Superior (Incompleto),gratis/reduzido,concluido,48,56,58
+F,group D,Mestrado,padrao,nao concluido,53,61,68
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,81,97,96
+F,group E,Ensino Médio (incompleto),padrao,nao concluido,77,79,80
+F,group D,Superior,gratis/reduzido,nao concluido,63,73,78
+F,group D,Tecnólogo,padrao,concluido,73,75,80
+F,group D,Superior (Incompleto),padrao,nao concluido,69,77,77
+F,group C,Tecnólogo,padrao,nao concluido,65,76,76
+F,group A,Ensino Médio,padrao,nao concluido,55,73,73
+F,group C,Superior,gratis/reduzido,nao concluido,44,63,62
+F,group C,Superior (Incompleto),padrao,nao concluido,54,64,65
+F,group A,Ensino Médio (incompleto),padrao,nao concluido,48,66,65
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,58,57,54
+M,group A,Ensino Médio (incompleto),padrao,nao concluido,71,62,50
+M,group E,Superior,padrao,nao concluido,68,68,64
+F,group E,Ensino Médio,padrao,nao concluido,74,76,73
+F,group C,Superior,padrao,concluido,92,100,99
+F,group C,Superior,padrao,concluido,56,79,72
+M,group B,Ensino Médio,gratis/reduzido,nao concluido,30,24,15
+M,group A,Ensino Médio (incompleto),padrao,nao concluido,53,54,48
+F,group D,Ensino Médio,padrao,nao concluido,69,77,73
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,65,82,81
+F,group D,Mestrado,padrao,nao concluido,54,60,63
+F,group C,Ensino Médio,padrao,nao concluido,29,29,30
+F,group E,Superior (Incompleto),padrao,nao concluido,76,78,80
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,60,57,51
+M,group D,Mestrado,gratis/reduzido,concluido,84,89,90
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,75,72,62
+F,group C,Tecnólogo,padrao,nao concluido,85,84,82
+F,group C,Mestrado,gratis/reduzido,nao concluido,40,58,54
+F,group E,Superior (Incompleto),padrao,nao concluido,61,64,62
+F,group B,Tecnólogo,padrao,nao concluido,58,63,65
+M,group D,Superior (Incompleto),gratis/reduzido,concluido,69,60,63
+F,group C,Superior (Incompleto),padrao,nao concluido,58,59,66
+M,group C,Superior,padrao,concluido,94,90,91
+F,group C,Tecnólogo,padrao,nao concluido,65,77,74
+F,group A,Tecnólogo,padrao,nao concluido,82,93,93
+F,group C,Ensino Médio,padrao,nao concluido,60,68,72
+F,group E,Superior,padrao,nao concluido,37,45,38
+M,group D,Superior,padrao,nao concluido,88,78,83
+M,group D,Mestrado,padrao,nao concluido,95,81,84
+M,group C,Tecnólogo,gratis/reduzido,concluido,65,73,68
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,35,61,54
+M,group B,Superior,gratis/reduzido,nao concluido,62,63,56
+M,group C,Ensino Médio,gratis/reduzido,concluido,58,51,52
+M,group A,Superior (Incompleto),padrao,concluido,100,96,86
+F,group E,Superior,gratis/reduzido,nao concluido,61,58,62
+M,group D,Superior (Incompleto),padrao,concluido,100,97,99
+M,group B,Tecnólogo,gratis/reduzido,concluido,69,70,63
+M,group D,Tecnólogo,padrao,nao concluido,61,48,46
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,49,57,46
+F,group C,Ensino Médio (incompleto),padrao,concluido,44,51,55
+M,group D,Superior (Incompleto),padrao,nao concluido,67,64,70
+M,group B,Ensino Médio,padrao,nao concluido,79,60,65
+F,group B,Superior,padrao,concluido,66,74,81
+F,group C,Ensino Médio,padrao,nao concluido,75,88,85
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,84,84,80
+M,group A,Ensino Médio,padrao,nao concluido,71,74,64
+F,group B,Ensino Médio,gratis/reduzido,concluido,67,80,81
+F,group D,Ensino Médio (incompleto),padrao,concluido,80,92,88
+M,group E,Superior (Incompleto),padrao,nao concluido,86,76,74
+F,group D,Tecnólogo,padrao,nao concluido,76,74,73
+M,group D,Ensino Médio,padrao,nao concluido,41,52,51
+F,group D,Tecnólogo,gratis/reduzido,concluido,74,88,90
+F,group B,Ensino Médio (incompleto),gratis/reduzido,nao concluido,72,81,79
+F,group E,Ensino Médio,padrao,concluido,74,79,80
+M,group B,Ensino Médio,padrao,nao concluido,70,65,60
+F,group B,Superior,padrao,concluido,65,81,81
+F,group D,Tecnólogo,padrao,nao concluido,59,70,65
+F,group E,Ensino Médio,gratis/reduzido,nao concluido,64,62,68
+F,group B,Ensino Médio,padrao,nao concluido,50,53,55
+F,group D,Superior (Incompleto),padrao,concluido,69,79,81
+M,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,51,56,53
+F,group A,Ensino Médio,padrao,concluido,68,80,76
+F,group D,Superior (Incompleto),padrao,concluido,85,86,98
+F,group A,Tecnólogo,padrao,concluido,65,70,74
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,73,79,79
+F,group B,Superior (Incompleto),padrao,nao concluido,62,67,67
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,77,67,64
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,69,66,61
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,43,60,58
+M,group D,Tecnólogo,padrao,nao concluido,90,87,85
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,74,77,73
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,73,66,63
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,55,71,69
+F,group C,Ensino Médio,padrao,nao concluido,65,69,67
+M,group D,Tecnólogo,padrao,nao concluido,80,63,63
+F,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,50,60,60
+F,group C,Superior (Incompleto),gratis/reduzido,concluido,63,73,71
+F,group B,Superior,gratis/reduzido,nao concluido,77,85,87
+M,group C,Superior (Incompleto),padrao,nao concluido,73,74,61
+M,group D,Tecnólogo,padrao,concluido,81,72,77
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,66,76,68
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,52,57,50
+F,group C,Superior (Incompleto),padrao,nao concluido,69,78,76
+F,group C,Tecnólogo,padrao,concluido,65,84,84
+F,group D,Ensino Médio,padrao,concluido,69,77,78
+F,group B,Superior (Incompleto),padrao,concluido,50,64,66
+F,group E,Superior (Incompleto),padrao,concluido,73,78,76
+F,group C,Ensino Médio (incompleto),padrao,concluido,70,82,76
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,81,75,78
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,63,61,60
+F,group D,Ensino Médio,padrao,nao concluido,67,72,74
+M,group B,Ensino Médio,padrao,nao concluido,60,68,60
+M,group B,Ensino Médio,padrao,nao concluido,62,55,54
+F,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,29,40,44
+M,group B,Superior (Incompleto),padrao,concluido,62,66,68
+F,group E,Mestrado,padrao,concluido,94,99,100
+M,group E,Superior (Incompleto),padrao,concluido,85,75,68
+M,group D,Tecnólogo,gratis/reduzido,nao concluido,77,78,73
+M,group A,Ensino Médio,gratis/reduzido,nao concluido,53,58,44
+M,group E,Superior (Incompleto),gratis/reduzido,nao concluido,93,90,83
+F,group C,Tecnólogo,padrao,nao concluido,49,53,53
+F,group E,Tecnólogo,gratis/reduzido,nao concluido,73,76,78
+F,group C,Superior,gratis/reduzido,concluido,66,74,81
+F,group D,Tecnólogo,padrao,nao concluido,77,77,73
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,49,63,56
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,79,89,86
+F,group C,Tecnólogo,padrao,concluido,75,82,90
+F,group A,Superior,padrao,nao concluido,59,72,70
+F,group D,Tecnólogo,padrao,concluido,57,78,79
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,66,66,59
+F,group E,Superior,padrao,concluido,79,81,82
+F,group B,Ensino Médio (incompleto),padrao,nao concluido,57,67,72
+M,group A,Superior,padrao,concluido,87,84,87
+F,group D,Superior (Incompleto),padrao,nao concluido,63,64,67
+F,group B,Ensino Médio (incompleto),gratis/reduzido,concluido,59,63,64
+M,group A,Superior,gratis/reduzido,nao concluido,62,72,65
+M,group D,Ensino Médio,padrao,nao concluido,46,34,36
+M,group C,Superior (Incompleto),padrao,nao concluido,66,59,52
+M,group D,Ensino Médio,padrao,nao concluido,89,87,79
+F,group D,Tecnólogo,gratis/reduzido,concluido,42,61,58
+M,group C,Superior (Incompleto),padrao,concluido,93,84,90
+F,group E,Ensino Médio (incompleto),padrao,concluido,80,85,85
+F,group D,Superior (Incompleto),padrao,nao concluido,98,100,99
+M,group D,Mestrado,padrao,nao concluido,81,81,84
+F,group B,Ensino Médio (incompleto),padrao,concluido,60,70,74
+F,group B,Tecnólogo,gratis/reduzido,concluido,76,94,87
+M,group C,Tecnólogo,padrao,concluido,73,78,72
+F,group C,Tecnólogo,padrao,concluido,96,96,99
+F,group C,Ensino Médio,padrao,nao concluido,76,76,74
+M,group E,Tecnólogo,gratis/reduzido,concluido,91,73,80
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,62,72,70
+M,group D,Ensino Médio (incompleto),gratis/reduzido,concluido,55,59,59
+F,group B,Ensino Médio (incompleto),gratis/reduzido,concluido,74,90,88
+M,group C,Ensino Médio,padrao,nao concluido,50,48,42
+M,group B,Superior (Incompleto),padrao,nao concluido,47,43,41
+M,group E,Superior (Incompleto),padrao,concluido,81,74,71
+F,group E,Tecnólogo,padrao,concluido,65,75,77
+M,group E,Ensino Médio (incompleto),padrao,concluido,68,51,57
+F,group D,Ensino Médio,gratis/reduzido,nao concluido,73,92,84
+M,group C,Superior (Incompleto),padrao,nao concluido,53,39,37
+F,group B,Tecnólogo,gratis/reduzido,concluido,68,77,80
+M,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,55,46,43
+F,group C,Superior (Incompleto),padrao,concluido,87,89,94
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,55,47,44
+F,group E,Superior (Incompleto),gratis/reduzido,nao concluido,53,58,57
+M,group C,Mestrado,padrao,nao concluido,67,57,59
+M,group C,Tecnólogo,padrao,nao concluido,92,79,84
+F,group B,Superior (Incompleto),gratis/reduzido,concluido,53,66,73
+M,group D,Tecnólogo,padrao,nao concluido,81,71,73
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,61,60,55
+M,group D,Superior,padrao,nao concluido,80,73,72
+F,group A,Tecnólogo,gratis/reduzido,nao concluido,37,57,56
+F,group C,Ensino Médio,padrao,nao concluido,81,84,82
+F,group C,Tecnólogo,padrao,concluido,59,73,72
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,55,55,47
+M,group D,Tecnólogo,padrao,nao concluido,72,79,74
+M,group D,Ensino Médio,padrao,nao concluido,69,75,71
+M,group C,Superior (Incompleto),padrao,nao concluido,69,64,68
+F,group C,Superior,gratis/reduzido,nao concluido,50,60,59
+M,group B,Superior (Incompleto),padrao,concluido,87,84,86
+M,group D,Ensino Médio (incompleto),padrao,concluido,71,69,68
+M,group E,Superior (Incompleto),padrao,nao concluido,68,72,65
+M,group C,Mestrado,gratis/reduzido,concluido,79,77,75
+F,group C,Ensino Médio (incompleto),padrao,concluido,77,90,85
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,58,55,53
+F,group E,Tecnólogo,padrao,nao concluido,84,95,92
+M,group D,Superior (Incompleto),padrao,nao concluido,55,58,52
+M,group E,Superior,gratis/reduzido,concluido,70,68,72
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,52,59,65
+M,group B,Superior (Incompleto),padrao,concluido,69,77,77
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,53,72,64
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,48,58,54
+M,group D,Ensino Médio (incompleto),padrao,concluido,78,81,86
+F,group B,Ensino Médio,padrao,nao concluido,62,62,63
+M,group D,Superior (Incompleto),padrao,nao concluido,60,63,59
+F,group B,Ensino Médio,padrao,nao concluido,74,72,72
+F,group C,Ensino Médio,padrao,concluido,58,75,77
+M,group B,Ensino Médio,padrao,concluido,76,62,60
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,68,71,75
+M,group A,Superior (Incompleto),gratis/reduzido,nao concluido,58,60,57
+M,group B,Ensino Médio,padrao,nao concluido,52,48,49
+M,group D,Superior,padrao,nao concluido,75,73,74
+F,group B,Ensino Médio (incompleto),gratis/reduzido,concluido,52,67,72
+F,group C,Superior,gratis/reduzido,nao concluido,62,78,79
+M,group B,Superior (Incompleto),padrao,nao concluido,66,65,60
+F,group B,Ensino Médio (incompleto),gratis/reduzido,nao concluido,49,58,55
+F,group B,Ensino Médio,padrao,nao concluido,66,72,70
+F,group C,Superior (Incompleto),gratis/reduzido,nao concluido,35,44,43
+F,group A,Superior (Incompleto),padrao,concluido,72,79,82
+M,group E,Tecnólogo,padrao,concluido,94,85,82
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,46,56,57
+F,group B,Mestrado,padrao,nao concluido,77,90,84
+F,group B,Ensino Médio,gratis/reduzido,concluido,76,85,82
+F,group C,Tecnólogo,padrao,concluido,52,59,62
+M,group C,Superior,padrao,concluido,91,81,79
+F,group B,Ensino Médio (incompleto),padrao,concluido,32,51,44
+F,group E,Ensino Médio (incompleto),gratis/reduzido,nao concluido,72,79,77
+F,group B,Superior (Incompleto),padrao,nao concluido,19,38,32
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,68,65,61
+F,group C,Mestrado,gratis/reduzido,nao concluido,52,65,61
+F,group B,Ensino Médio,padrao,nao concluido,48,62,60
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,60,66,70
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,66,74,69
+M,group E,Ensino Médio (incompleto),padrao,concluido,89,84,77
+F,group B,Ensino Médio,padrao,nao concluido,42,52,51
+F,group E,Tecnólogo,gratis/reduzido,concluido,57,68,73
+M,group D,Ensino Médio,padrao,nao concluido,70,70,70
+F,group E,Tecnólogo,gratis/reduzido,nao concluido,70,84,81
+M,group E,Superior (Incompleto),padrao,nao concluido,69,60,54
+F,group C,Tecnólogo,padrao,nao concluido,52,55,57
+M,group C,Ensino Médio (incompleto),padrao,concluido,67,73,68
+M,group C,Ensino Médio (incompleto),padrao,concluido,76,80,73
+F,group E,Tecnólogo,padrao,nao concluido,87,94,95
+F,group B,Superior (Incompleto),padrao,nao concluido,82,85,87
+F,group C,Superior (Incompleto),padrao,nao concluido,73,76,78
+M,group A,Superior (Incompleto),gratis/reduzido,nao concluido,75,81,74
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,64,74,75
+F,group E,Ensino Médio,gratis/reduzido,nao concluido,41,45,40
+M,group C,Ensino Médio,padrao,nao concluido,90,75,69
+M,group B,Superior,padrao,nao concluido,59,54,51
+M,group A,Ensino Médio (incompleto),padrao,nao concluido,51,31,36
+M,group A,Ensino Médio,gratis/reduzido,nao concluido,45,47,49
+F,group C,Mestrado,padrao,concluido,54,64,67
+M,group E,Ensino Médio (incompleto),padrao,concluido,87,84,76
+F,group C,Ensino Médio,padrao,nao concluido,72,80,83
+M,group B,Ensino Médio (incompleto),padrao,concluido,94,86,87
+F,group A,Superior,padrao,nao concluido,45,59,64
+M,group D,Superior,gratis/reduzido,concluido,61,70,76
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,60,72,68
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,77,91,88
+F,group A,Ensino Médio (incompleto),padrao,concluido,85,90,92
+F,group D,Superior,gratis/reduzido,nao concluido,78,90,93
+M,group E,Superior (Incompleto),gratis/reduzido,concluido,49,52,51
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,71,87,82
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,48,58,52
+M,group C,Ensino Médio,padrao,nao concluido,62,67,58
+F,group C,Tecnólogo,gratis/reduzido,concluido,56,68,70
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,65,69,76
+F,group D,Ensino Médio (incompleto),gratis/reduzido,concluido,69,86,81
+M,group B,Ensino Médio (incompleto),padrao,nao concluido,68,54,53
+F,group A,Superior (Incompleto),gratis/reduzido,nao concluido,61,60,57
+F,group C,Superior,gratis/reduzido,concluido,74,86,89
+M,group A,Superior,padrao,nao concluido,64,60,58
+F,group B,Ensino Médio,padrao,concluido,77,82,89
+M,group B,Superior (Incompleto),padrao,nao concluido,58,50,45
+F,group C,Ensino Médio,padrao,concluido,60,64,74
+M,group E,Ensino Médio,padrao,nao concluido,73,64,57
+F,group A,Ensino Médio,padrao,concluido,75,82,79
+M,group B,Tecnólogo,gratis/reduzido,concluido,58,57,53
+F,group C,Tecnólogo,padrao,nao concluido,66,77,73
+F,group D,Ensino Médio,gratis/reduzido,nao concluido,39,52,46
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,64,58,51
+F,group B,Ensino Médio,gratis/reduzido,concluido,23,44,36
+M,group B,Superior (Incompleto),gratis/reduzido,concluido,74,77,76
+F,group D,Ensino Médio (incompleto),gratis/reduzido,concluido,40,65,64
+M,group E,Mestrado,padrao,nao concluido,90,85,84
+M,group C,Mestrado,padrao,concluido,91,85,85
+M,group D,Ensino Médio,padrao,nao concluido,64,54,50
+F,group C,Ensino Médio,padrao,nao concluido,59,72,68
+M,group D,Tecnólogo,padrao,nao concluido,80,75,69
+M,group C,Mestrado,padrao,nao concluido,71,67,67
+F,group A,Ensino Médio,padrao,nao concluido,61,68,63
+F,group E,Superior (Incompleto),padrao,nao concluido,87,85,93
+M,group E,Ensino Médio (incompleto),padrao,nao concluido,82,67,61
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,62,64,55
+F,group B,Superior,padrao,nao concluido,97,97,96
+M,group B,Superior (Incompleto),gratis/reduzido,nao concluido,75,68,65
+F,group C,Superior,padrao,nao concluido,65,79,81
+M,group B,Ensino Médio,padrao,concluido,52,49,46
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,87,73,72
+F,group C,Tecnólogo,padrao,nao concluido,53,62,53
+F,group E,Mestrado,gratis/reduzido,nao concluido,81,86,87
+M,group D,Superior,gratis/reduzido,concluido,39,42,38
+F,group C,Superior (Incompleto),padrao,concluido,71,71,80
+M,group C,Tecnólogo,padrao,nao concluido,97,93,91
+M,group D,Superior (Incompleto),padrao,concluido,82,82,88
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,59,53,52
+M,group B,Tecnólogo,padrao,nao concluido,61,42,41
+M,group E,Tecnólogo,gratis/reduzido,concluido,78,74,72
+M,group C,Tecnólogo,gratis/reduzido,nao concluido,49,51,51
+M,group B,Ensino Médio,padrao,nao concluido,59,58,47
+F,group C,Superior (Incompleto),padrao,concluido,70,72,76
+M,group B,Tecnólogo,padrao,concluido,82,84,78
+M,group E,Tecnólogo,gratis/reduzido,nao concluido,90,90,82
+F,group C,Superior,gratis/reduzido,nao concluido,43,62,61
+M,group C,Superior (Incompleto),gratis/reduzido,nao concluido,80,64,66
+M,group D,Superior (Incompleto),padrao,nao concluido,81,82,84
+M,group C,Ensino Médio (incompleto),padrao,nao concluido,57,61,54
+F,group D,Ensino Médio (incompleto),padrao,nao concluido,59,72,80
+F,group D,Tecnólogo,padrao,nao concluido,64,76,74
+M,group C,Superior,padrao,concluido,63,64,66
+F,group E,Superior,padrao,concluido,71,70,70
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,64,73,71
+M,group D,Superior,gratis/reduzido,nao concluido,55,46,44
+F,group E,Tecnólogo,padrao,nao concluido,51,51,54
+F,group C,Tecnólogo,padrao,concluido,62,76,80
+F,group E,Tecnólogo,padrao,concluido,93,100,95
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,54,72,59
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,69,65,74
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,44,51,48
+F,group E,Superior (Incompleto),padrao,concluido,86,85,91
+F,group E,Tecnólogo,padrao,nao concluido,85,92,85
+F,group A,Mestrado,gratis/reduzido,nao concluido,50,67,73
+M,group D,Ensino Médio (incompleto),padrao,concluido,88,74,75
+F,group E,Tecnólogo,padrao,nao concluido,59,62,69
+F,group E,Ensino Médio (incompleto),gratis/reduzido,nao concluido,32,34,38
+M,group B,Ensino Médio,gratis/reduzido,nao concluido,36,29,27
+F,group B,Ensino Médio (incompleto),gratis/reduzido,concluido,63,78,79
+M,group D,Tecnólogo,padrao,concluido,67,54,63
+F,group D,Ensino Médio (incompleto),padrao,concluido,65,78,82
+M,group D,Mestrado,padrao,nao concluido,85,84,89
+F,group C,Mestrado,padrao,nao concluido,73,78,74
+F,group A,Ensino Médio,gratis/reduzido,concluido,34,48,41
+F,group D,Superior,gratis/reduzido,concluido,93,100,100
+F,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,67,84,84
+M,group D,Superior (Incompleto),padrao,nao concluido,88,77,77
+M,group B,Ensino Médio,padrao,nao concluido,57,48,51
+F,group D,Superior (Incompleto),padrao,concluido,79,84,91
+F,group C,Superior,gratis/reduzido,nao concluido,67,75,72
+M,group E,Superior,padrao,concluido,70,64,70
+M,group D,Superior,gratis/reduzido,nao concluido,50,42,48
+F,group A,Superior (Incompleto),padrao,nao concluido,69,84,82
+F,group C,Superior,padrao,concluido,52,61,66
+F,group C,Superior,gratis/reduzido,concluido,47,62,66
+F,group B,Tecnólogo,gratis/reduzido,nao concluido,46,61,55
+F,group E,Superior (Incompleto),padrao,nao concluido,68,70,66
+M,group E,Superior,padrao,concluido,100,100,100
+F,group C,Ensino Médio,padrao,nao concluido,44,61,52
+F,group C,Tecnólogo,padrao,concluido,57,77,80
+M,group B,Superior (Incompleto),padrao,concluido,91,96,91
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,69,70,67
+F,group C,Ensino Médio,gratis/reduzido,nao concluido,35,53,46
+M,group D,Ensino Médio,padrao,nao concluido,72,66,66
+F,group B,Tecnólogo,gratis/reduzido,nao concluido,54,65,65
+M,group D,Ensino Médio,gratis/reduzido,nao concluido,74,70,69
+M,group E,Ensino Médio (incompleto),padrao,concluido,74,64,60
+M,group E,Tecnólogo,gratis/reduzido,nao concluido,64,56,52
+F,group D,Ensino Médio,gratis/reduzido,concluido,65,61,71
+M,group E,Tecnólogo,gratis/reduzido,concluido,46,43,44
+F,group C,Ensino Médio (incompleto),gratis/reduzido,nao concluido,48,56,51
+M,group C,Superior (Incompleto),gratis/reduzido,concluido,67,74,70
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,62,57,62
+M,group D,Tecnólogo,gratis/reduzido,concluido,61,71,73
+M,group C,Superior,gratis/reduzido,concluido,70,75,74
+M,group C,Tecnólogo,padrao,concluido,98,87,90
+M,group D,Superior (Incompleto),gratis/reduzido,nao concluido,70,63,58
+M,group A,Tecnólogo,padrao,nao concluido,67,57,53
+F,group E,Ensino Médio,gratis/reduzido,nao concluido,57,58,57
+M,group D,Superior (Incompleto),padrao,concluido,85,81,85
+M,group D,Ensino Médio (incompleto),padrao,concluido,77,68,69
+M,group C,Mestrado,gratis/reduzido,concluido,72,66,72
+F,group D,Mestrado,padrao,nao concluido,78,91,96
+M,group C,Ensino Médio,padrao,nao concluido,81,66,64
+M,group A,Ensino Médio (incompleto),gratis/reduzido,concluido,61,62,61
+F,group B,Ensino Médio,padrao,nao concluido,58,68,61
+F,group C,Tecnólogo,padrao,nao concluido,54,61,58
+M,group B,Ensino Médio,padrao,nao concluido,82,82,80
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,49,58,60
+M,group B,Ensino Médio (incompleto),gratis/reduzido,concluido,49,50,52
+F,group E,Ensino Médio,gratis/reduzido,concluido,57,75,73
+M,group E,Ensino Médio,padrao,nao concluido,94,73,71
+F,group D,Superior (Incompleto),padrao,concluido,75,77,83
+F,group E,Ensino Médio (incompleto),gratis/reduzido,nao concluido,74,74,72
+M,group C,Ensino Médio,padrao,concluido,58,52,54
+F,group C,Superior (Incompleto),padrao,nao concluido,62,69,69
+M,group E,Tecnólogo,padrao,nao concluido,72,57,62
+M,group C,Superior (Incompleto),padrao,nao concluido,84,87,81
+F,group D,Mestrado,padrao,nao concluido,92,100,100
+F,group D,Ensino Médio,padrao,nao concluido,45,63,59
+M,group C,Ensino Médio,padrao,nao concluido,75,81,71
+F,group A,Superior (Incompleto),padrao,nao concluido,56,58,64
+F,group D,Ensino Médio (incompleto),gratis/reduzido,nao concluido,48,54,53
+F,group E,Tecnólogo,padrao,nao concluido,100,100,100
+F,group C,Ensino Médio (incompleto),gratis/reduzido,concluido,65,76,75
+M,group D,Superior (Incompleto),padrao,nao concluido,72,57,58
+F,group D,Superior (Incompleto),padrao,nao concluido,62,70,72
+M,group A,Ensino Médio (incompleto),padrao,concluido,66,68,64
+M,group C,Superior (Incompleto),padrao,nao concluido,63,63,60
+F,group E,Tecnólogo,padrao,nao concluido,68,76,67
+F,group B,Superior,padrao,nao concluido,75,84,80
+F,group D,Superior,padrao,nao concluido,89,100,100
+M,group C,Ensino Médio (incompleto),padrao,concluido,78,72,69
+F,group A,Ensino Médio,gratis/reduzido,concluido,53,50,60
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,49,65,61
+F,group A,Superior (Incompleto),padrao,nao concluido,54,63,67
+F,group C,Superior (Incompleto),padrao,concluido,64,82,77
+M,group B,Superior (Incompleto),gratis/reduzido,concluido,60,62,60
+M,group C,Tecnólogo,padrao,nao concluido,62,65,58
+M,group D,Ensino Médio,padrao,concluido,55,41,48
+F,group C,Tecnólogo,padrao,nao concluido,91,95,94
+F,group B,Ensino Médio,gratis/reduzido,nao concluido,8,24,23
+M,group D,Ensino Médio (incompleto),padrao,nao concluido,81,78,78
+M,group B,Ensino Médio (incompleto),padrao,concluido,79,85,86
+F,group A,Superior (Incompleto),padrao,concluido,78,87,91
+F,group C,Ensino Médio (incompleto),padrao,nao concluido,74,75,82
+M,group A,Ensino Médio,padrao,nao concluido,57,51,54
+F,group C,Tecnólogo,padrao,nao concluido,40,59,51
+M,group E,Ensino Médio (incompleto),padrao,concluido,81,75,76
+F,group A,Ensino Médio (incompleto),gratis/reduzido,nao concluido,44,45,45
+F,group D,Superior (Incompleto),gratis/reduzido,concluido,67,86,83
+M,group E,Ensino Médio,gratis/reduzido,concluido,86,81,75
+F,group B,Ensino Médio (incompleto),padrao,concluido,65,82,78
+F,group D,Tecnólogo,gratis/reduzido,nao concluido,55,76,76
+F,group D,Superior,gratis/reduzido,nao concluido,62,72,74
+M,group A,Ensino Médio,padrao,nao concluido,63,63,62
+F,group E,Mestrado,padrao,concluido,88,99,95
+M,group C,Ensino Médio,gratis/reduzido,nao concluido,62,55,55
+F,group C,Ensino Médio,gratis/reduzido,concluido,59,71,65
+F,group D,Superior (Incompleto),padrao,concluido,68,78,77
+F,group D,Superior (Incompleto),gratis/reduzido,nao concluido,77,86,86
