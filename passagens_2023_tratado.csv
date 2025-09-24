@@ -1,0 +1,438 @@
+orgao,data,mes,servidor,destino,valor
+AGEFIS,2023-01-31,1.0,Jéssica Morais de Moura,Ceará,797.29
+SETFOR,2023-02-06,2.0,Alexandre Pereira Silva,Amazônia,1372.81
+SETFOR,2023-02-06,2.0,Valéria Maria de Brito Cavalcante,Amazônia,1979.23
+,2023-02-07,2.0,,Pará,692.62
+,2023-02-08,2.0,,Maranhão,792.58
+SETFOR,2023-02-08,2.0,Alexandre Pereira Silva,Distrito Federal,3347.5
+SMS,2023-02-15,2.0,João Cândido de Souza Borges,Distrito Federal,1509.15
+SMS,2023-02-15,2.0,João Cândido de Souza Borges,Distrito Federal,5371.48
+SEFIN,2023-02-15,2.0,Flávia Roberta Bruno Teixeira,Distrito Federal,1509.15
+,2023-02-15,2.0,Lucinthya Maria Gomes da Silva,Distrito Federal,1836.03
+SEFIN,2023-02-15,2.0,Lucinthya Maria Gomes da Silva,Distrito Federal,1509.15
+GABPREF,2023-02-15,2.0,Renato Carvalho Borges,Distrito Federal,1163.17
+GABPREF,2023-02-15,2.0,Renato Carvalho Borges,Distrito Federal,1836.03
+GABPREF,2023-02-15,2.0,José Sarto Nogueira Moreira,Distrito Federal,1509.15
+GABPREF,2023-02-15,2.0,José Sarto Nogueira Moreira,Distrito Federal,1836.03
+SEFIN,2023-02-15,2.0,Flávia Roberta Bruno Teixeira,Distrito Federal,3672.06
+CPDROGAS,2023-03-01,3.0,Clarice Sandi Madruga,Ceará,1656.81
+CPDROGAS,2023-03-01,3.0,Katia Isicawa Barreto,Ceará,7502.01
+,2023-03-01,3.0,Clarice Sandi Madruga,Ceará,2803.2
+,2023-03-01,3.0,Katia Isicawa Barreto,Ceará,1332.81
+SEFIN,2023-03-06,3.0,Flávia Roberta Bruno Teixeira,Distrito Federal,3344.28
+GABVICE,2023-03-07,3.0,José Élcio Batista,São Paulo,8829.48
+,2023-03-07,3.0,Beatriz Gonçalves Bley,São Paulo,4414.74
+SEFIN,2023-03-13,3.0,Francisco José Gomes,Distrito Federal,2787.08
+ACFOR,2023-03-14,3.0,Paulo Henrique Ellery Lustosa da Costa,Distrito Federal,6082.28
+SEUMA,2023-03-15,3.0,Luciana Mendes Lobo,Distrito Federal,3602.08
+GABVICE,2023-03-17,3.0,Alberto Dias Gadanha Júnior,Paraíba,3452.8
+SDE,2023-04-12,4.0,Rodrigo Nogueira Diogo de Siqueira,Distrito Federal,2892.36
+SME,2023-04-14,4.0,Antonia Dalila Saldanha de Freitas,Rio de Janeiro,2029.51
+FUNCI,2023-05-03,5.0,Raimundo Gomes de Matos,Distrito Federal,1849.9
+SMS,2023-05-03,5.0,Galeno Taumaturgo Lopes,Distrito Federal,2199.8
+GABVICE,2023-05-03,5.0,José Élcio Batista,Rio de Janeiro,5517.62
+GABVICE,2023-05-03,5.0,Beatriz Gonçalves Bley,Rio de Janeiro,2758.81
+PGM,2023-05-04,5.0,Fernando Antônio Costa de Oliveira,Distrito Federal,7185.8
+PGM,2023-05-04,5.0,Valéria Moraes Lopes,Distrito Federal,3592.9
+SME,2023-05-08,5.0,Paulo Henrique de Menezes Brandão,São Paulo,2850.92
+SME,2023-05-08,5.0,Jayckson Saraiva de Amorim,São Paulo,1425.46
+GABVICE,2023-05-17,5.0,Beatriz Gonçalves Bley,Amazônia,3166.64
+FUNCI,2023-05-18,5.0,Raimundo Gomes de Matos,Distrito Federal,2584.89
+ACFOR,2023-05-30,5.0,Paulo Henrique Ellery Lustosa da Costa,Distrito Federal,1836.08
+GABVICE,2023-06-01,6.0,Jammya Evven Leite de Figueiredo Gonçalves,Paraíba,4346.61
+GABVICE,2023-06-01,6.0,José Élcio Batista,Paraíba,8693.22
+SME,2023-06-05,6.0,Socorro Waldiana Jucá Souza,Santa Catarina,2249.09
+SME,2023-06-14,6.0,Antônia Dalila Saldanha de Freitas,Distrito Federal,3678.9
+SDE,2023-06-16,6.0,Erick Benevides de Vasconcelos,Pernambuco,4783.26
+SEFIN,2023-06-16,6.0,Marcelo Jorge Borges Pinheiro,Pernambuco,4783.26
+HABITAFOR,2023-06-29,6.0,Carlos Kleber de Sousa Chaves,Distrito Federal,8601.8
+HABITAFOR,2023-06-29,6.0,Paulo André da Silva Gomes,Distrito Federal,4300.9
+GABVICE,2023-07-04,7.0,José Élcio Batista,Distrito Federal,8601.78
+GABVICE,2023-07-04,7.0,Jammya Evven Leite de Figueiredo Gonçalves,Distrito Federal,4300.89
+PGM,2023-07-04,7.0,Fernando Antônio Costa de Oliveira,Distrito Federal,3833.89
+IPEM,2023-07-04,7.0,Francisco Barroso Rodrigues,Rio de Janeiro,2830.64
+IPEM,2023-07-04,7.0,Régis Sousa da Silveira,Rio de Janeiro,1415.32
+SMS,2023-07-10,7.0,Helena Paula Guerra dos Santos,Distrito Federal,3714.57
+SMS,2023-07-10,7.0,Charles Goiana de Andrade,Distrito Federal,7429.14
+SMS,2023-07-19,7.0,Cristiane Mourão Carvalhedo Mesquita,Distrito Federal,5393.99
+SMS,2023-07-19,7.0,Helena Paula Guerra dos Santos,Distrito Federal,5394.0
+SME,2023-07-31,7.0,Antonia Dalila Saldanha de Freitas,Distrito Federal,6059.75
+SMS,2023-08-08,8.0,Galeno Taumaturgo Lopes,Distrito Federal,5715.91
+SMS,2023-08-08,8.0,Charles Goiana de Andrade,Distrito Federal,5715.91
+SEFIN,2023-08-08,8.0,Flávia Roberta Bruno Teixeira,Distrito Federal,6193.02
+CITINOVA,2023-08-10,8.0,Victor Macêdo Lacerda,Distrito Federal,3997.84
+SPSC,2023-08-10,8.0,Davi Garcia Lopes Pinto,Distrito Federal,3997.84
+SEUMA,2023-08-17,8.0,Luciana Mendes Lobo,Distrito Federal,5129.2
+SEFIN,2023-08-24,8.0,Jorge Gomes Batista,Distrito Federal,4621.78
+SEFIN,2023-08-24,8.0,Danielle Abreu de Andrade Vieira,Distrito Federal,2310.89
+SMS,2023-08-31,8.0,Galeno Taumaturgo Lopes,Distrito Federal,6717.77
+SMS,2023-08-31,8.0,Charles Goiana de Andrade,Distrito Federal,6717.77
+SEFIN,2023-09-12,9.0,Flávia Roberta Bruno Teixeira,Distrito Federal,6677.92
+SME,2023-09-14,9.0,Germânia Kelly Ferreira de Medeiros,São Paulo,4190.53
+SMS,2023-09-18,9.0,Charles Goiana de Andrade,Distrito Federal,6501.04
+SMS,2023-09-18,9.0,Galeno Taumaturgo Lopes,Distrito Federal,6501.04
+SME,2023-09-19,9.0,Antonia Dalila Saldanha de Freitas,Distrito Federal,3038.08
+GABVICE,2023-09-20,9.0,Beatriz Gonçalves Bley,,5791.67
+SEFIN,2023-09-21,9.0,Flávia Roberta Bruno Teixeira,Distrito Federal,5284.73
+SEFIN,2023-09-21,9.0,José Ítalo Bandeira Gomes,Distrito Federal,10721.18
+SEFIN,2023-09-21,9.0,José Maciel Cavalcante Neto,Distrito Federal,5360.59
+SEFIN,2023-09-21,9.0,Valberto Alves Abreu,Distrito Federal,3246.22
+SEINF,2023-09-26,9.0,Samuel Antônio Silva Dias,Distrito Federal,6261.72
+HABITAFOR,2023-09-28,9.0,Carlos Kleber de Sousa Chaves,Distrito Federal,6456.52
+IPLANFOR,2023-10-04,10.0,Larissa de Miranda Menescal,Distrito Federal,6338.43
+HABITAFOR,2023-10-16,10.0,Carlos Kleber de Sousa Chaves,Distrito Federal,5740.3
+IPEM,2023-10-18,10.0,Francisco Barroso Rodrigues,Distrito Federal,6060.22
+SEGOV,2023-10-24,10.0,Sabrina Lemos Moura Moreira,São Paulo,5836.65
+SEGOV,2023-10-24,10.0,Sabrina Lemos Moura Moreira,São Paulo,768.4
+SDE,2023-10-24,10.0,Rodrigo Nogueira Diogo de Siqueira,São Paulo,1003.86
+SECULTFOR,2023-10-24,10.0,Elpídio Nogueira Moreira,São Paulo,5457.82
+SETFOR,2023-10-24,10.0,Alexandre Pereira Silva,São Paulo,5457.82
+SECULTFOR,2023-10-24,10.0,Elpídio Nogueira Moreira,São Paulo,2466.07
+SCSP,2023-10-25,10.0,Davi Garcia Lopes Pinto,São Paulo,4540.47
+GABPREF,2023-11-07,11.0,José Sarto Nogueira Moreira,Distrito Federal,6653.99
+GABPREF,2023-11-07,11.0,José Sarto Nogueira Moreira,Distrito Federal,984.21
+GABPREF,2023-11-07,11.0,Renato Carvalho Borges,Distrito Federal,6359.45
+GABPREF,2023-11-07,11.0,Renato Carvalho Borges,Distrito Federal,984.21
+SDE,2023-11-07,11.0,Rodrigo Nogueira Diogo de Siqueira,Distrito Federal,6300.44
+GABVICE,2023-11-07,11.0,José Élcio Batista,Rio de Janeiro,6161.36
+GABVICE,2023-11-07,11.0,Beatriz Gonçalves Bley,Rio de Janeiro,3080.68
+SME,2023-11-20,11.0,Antonia Dalila Saldanha de Freitas,Distrito Federal,6757.15
+SMS,2023-11-21,11.0,Charles Goiana de Andrade,Distrito Federal,6126.64
+SMS,2023-11-21,11.0,Galeno Taumaturgo Lopes,Distrito Federal,5949.52
+SMS,2023-11-23,11.0,Luciana Passos Aragão,Distrito Federal,6303.76
+IPLANFOR,2023-11-23,11.0,Larissa de Miranda Menescal,Rio de Janeiro,4136.12
+SDHDS,2023-11-30,11.0,Francisco José Pontes Ibiapina,São Paulo,965.29
+SEGOV,2023-11-30,11.0,Renato César Pereira Lima,São Paulo,6602.51
+SMS,2023-12-05,12.0,Galeno Taumaturgo Lopes,Distrito Federal,6322.58
+SMS,2023-12-05,12.0,Charles Goiana de Andrade,Distrito Federal,6322.58
+SMS,2023-12-12,12.0,Charles Goiana de Andrade,Distrito Federal,2222.54
+HABITAFOR,2023-12-13,12.0,Carlos Kleber de Sousa Chaves,Distrito Federal,5433.21
+FUNCI,2023-12-18,12.0,Francisco Mirton Marques Ramos,Pará,7729.02
+FUNCI,2023-12-18,12.0,Weverton Yago Gonçalves de Araújo,Pará,2459.61
+SMS,2023-12-21,12.0,Galeno Taumaturgo Lopes,Distrito Federal,4468.36
+SMS,2023-12-21,12.0,Charles Goiana de Andrade,Distrito Federal,4468.36
+GABPREF,,,José Sarto Nogueira Moreira,Distrito Federal,3244.57
+GABPREF,,,José Sarto Nogueira Moreira,Distrito Federal,2423.14
+GABPREF,,,Renato Carvalho Borges,Distrito Federal,3244.57
+GABPREF,,,Renato Carvalho Borges,Distrito Federal,2423.14
+SEGOV,,,Renato César Pereira Lima,Distrito Federal,1252.07
+SEGOV,,,Renato César Pereira Lima,Distrito Federal,2423.14
+SEFIN,,,Flávia Roberta Bruno Teixeira,Distrito Federal,6489.14
+,,,Lucinthya Maria Gomes da Silva,,3244.57
+,,,Lucinthya Maria Gomes da Silva,Distrito Federal,2423.14
+GABVICE,,,José Élcio Batista,Distrito Federal,3026.47
+,,,,,590.47
+SEFIN,,,José Ítalo Bandeira Gomes,Sergipe,4722.18
+SEUMA,,,Carla Camila Girão Albuquerque,Pará,1975.64
+IPLANFOR,,,Larissa de Miranda Menescal,Pará,3951.28
+,,,Francisca Dalila Menezes Vasconcelos,Pará,1975.64
+GABVICE,,,José Élcio Batista,Pará,6312.0
+,,,Netally de Oliveira Lima Pessoa,Pará,2104.0
+,,,Jammya Evven Leite de Figueiredo Gonçalves,Pará,2104.0
+,,,,,558.04
+HABITAFOR,,,Francisco Filomeno de Abreu Neto,Distrito Federal,2774.08
+,,,,,
+SESEC,,,Luís Eduardo Soares de Holanda,Uruguai,6316.96
+SETFOR,,,Alexandre Pereira Silva,Portugal,23486.82
+,,,Valéria Maria de Brito Cavalcante,Portugal,11743.41
+PROCON,,,Eneylandia Rabelo Lemos,Distrito Federal,2352.28
+SEFIN,,,Valberto Alves Abreu,Paraíba,3068.8
+SEFIN,,,José Ítalo Bandeira Gomes,Distrito Federal,2245.08
+SETFOR,,,Alexandre Pereira Silva,São Paulo,3181.34
+SETFOR,,,Valéria Maria de Brito Cavalcante,São Paulo,2830.84
+SEGOV,,,Caio Cesar Nepomuceno Braga,São Paulo,2999.64
+SDE,,,Alana Norberto Sampaio,Bahia,2704.17
+GABVICE,,,José Élcio Batista,Distrito Federal,10011.24
+,,,Netally de Oliveira Lima Pessoa,Distrito Federal,3337.08
+,,,Beatriz Gonçalves Bley,Distrito Federal,3337.08
+SEGOV,,,Renata Campelo Pinheiro Sampaio,Distrito Federal,2687.08
+CITINOVA,,,Ianna Fernandes de Almeida Brandão,São Paulo,3135.34
+GABPREF,,,Joana Laura Marinho Nogueira,Inglaterra,4115.21
+GABPREF,,,Joana Laura Marinho Nogueira,Inglaterra,11177.1
+GABPREF,,,Renato Carvalho Borges,Inglaterra,4115.21
+GABPREF,,,Renato Carvalho Borges,Inglaterra,11177.1
+SDE,,,Erick Benevides de Vasconcelos,São Paulo,3252.64
+GABPREF,,,Angélica Leal de Oliveira,São Paulo,4398.64
+SETFOR,,,Bruna Regina dos Santos,São Paulo,4766.28
+,,,,,3295.47
+SETFOR,,,André Braz Montenegro,São Paulo,4766.28
+SDHDS,,,Ana Paula Azevedo Furtado,São Paulo,2623.36
+IPM,,,Josué de Sousa Lima,Goiás,3598.05
+FUNCI,,,Raimundo Gomes de Matos,Distrito Federal,2916.08
+GABPREF,,,José Sarto Nogueira Moreira,Distrito Federal,5492.47
+,,,,,742.39
+GABPREF,,,José Sarto Nogueira Moreira,Distrito Federal,4414.05
+GABPREF,,,Renato Carvalho Borges,Distrito Federal,5468.83
+,,,,,1029.75
+GABPREF,,,Renato Carvalho Borges,Distrito Federal,4414.05
+SEFIN,,,Lucinthya Maria Gomes da Silva,Distrito Federal,5468.83
+SEFIN,,,Lucinthya Maria Gomes da Silva,Distrito Federal,4414.05
+SEGOV,,,Daniel Mendes Aderaldo,Distrito Federal,4687.27
+SEGOV,,,Daniel Mendes Aderaldo,Distrito Federal,3050.1
+GABVICE,,,José Élcio Batista e Beatriz Gonçalves Bley,Pernambuco,10808.02
+,,,,,4985.28
+,,,,,3565.3
+SEFIN,,,Valberto Alves Abreu,Distrito Federal,1318.08
+AMC,,,Antônio Ferreira Silva,Rio de Janeiro,1842.92
+SETFOR,,,Alexandre Pereira Silva,Distrito Federal,4142.56
+,,,Amanda Magna Alves de Castro,Distrito Federal,2071.28
+SETFOR,,,Valéria Maria Brito Cavalcante,Distrito Federal,2071.28
+SETFOR,,,Adriana Albuquerque Nachón,Distrito Federal,2071.28
+CITINOVA,,,Ianna Fernandes de Almeida Brandão,Eua,7851.48
+SDHDS,,,Francisca Enilce Vieira Rocha,Piauí,1530.25
+SDHDS,,,Francisca Enilce Vieira Rocha,Piauí,458.7
+GABVICE,,,José Élcio Batista,Mato Grosso do Sul,16902.51
+GABVICE,,,José Élcio Batista,Mato Grosso do Sul,2651.28
+GABVICE,,,Beatriz Gonçalves Bley,Mato Grosso do Sul,2543.9
+GABVICE,,,Netally de Oliveira Lima Pessoa,Mato Grosso do Sul,2543.9
+GABVICE,,,Beatriz Gonçalves Bley,Mato Grosso do Sul,1892.62
+GABVICE,,,Netally de Oliveira Lima Pessoa,Mato Grosso do Sul,1892.62
+GABVICE,,,Beatriz Gonçalves Bley,Mato Grosso do Sul,1840.28
+GABVICE,,,Netally de Oliveira Lima Pessoa,Mato Grosso do Sul,1840.28
+IPLANFOR,,,Sofia Laprovitera Rocha,Mato Grosso do Sul,1804.9
+AMC,,,Eduardo Araújo de Aquino,Distrito Federal,1308.89
+,,,,,952.31
+SEFIN,,,Valberto Alves Abreu,Distrito Federal,1308.89
+GMF,,,Marcílio Linhares Távora,Piauí,791.87
+SETFOR,,,Amanda Magna Alves de Castro,Santa Catarina,2397.12
+GABVICE,,,José Élcio Batista,Ásia,17300.8
+IPLANFOR,,,Larissa de Miranda Menescal,Ásia,16294.98
+SETFOR,,,Flávio Gabriel Sousa Oliveira,São Paulo,1353.56
+SETFOR,,,Jacqueline de Castro Crescêncio Pereira,São Paulo,1353.56
+SEFIN,,,Luan Victor Vasconcelos Noberto,São Paulo,3228.32
+SEFIN,,,Henrique Eder Cavalcante Araújo,São Paulo,1614.16
+SECULTFOR,,,Elpídio Nogueira Moreira,Bahia,3730.17
+SETFOR,,,Bruna Regina dos Santos,São Paulo,2030.55
+SETFOR,,,André Braz Montenegro,São Paulo,2030.55
+SEPOG,,,Joice Nogueira de Freitas,Distrito Federal,2613.38
+SEGOV,,,Lilian Pinheiro Bezerra,Distrito Federal,3076.08
+GABPREF,,,Érika Saraiva Serra,Distrito Federal,2658.09
+SMS,,,Galeno Taumaturgo Lopes,São Paulo,2579.55
+ACFOR,,,Albert Brasil Gradvohl,Distrito Federal,1338.28
+GABVICE,,,Cláudio Nelson Campos Brandão,São Paulo,3394.42
+GABVICE,,,Ney Fonseca Barroso Filho,São Paulo,1697.21
+SCSP,,,José Guilherme Pereira de Sousa,Paraná,1872.17
+SEGER,,,Ronaldo Figueiredo Lima Filho,Paraná,1872.17
+SETFOR,,,Amanda Magna Alves de Castro,Paraná,1574.01
+SETFOR,,,Valéria Maria Brito Cavalcante,Paraná,1574.01
+SETFOR,,,Suemy Andrade Vasconcelos,Maranhão,1125.01
+SETFOR,,,Janaildo Soares de Sousa,Maranhão,1267.01
+SETFOR,,,Valéria Maria Brito Cavalcante,Pernambuco,1737.18
+,,,,,424.53
+,,,,,705.84
+SETFOR,,,Amanda Magna Alves de Castro,Pernambuco,1737.18
+GABVICE,,,José Élcio Batista,Quênia,43227.7
+GABVICE,,,Beatriz Gonçalves Bley,Quênia,17953.73
+IPLANFOR,,,Larissa de Miranda Menescal,Quênia,17953.73
+SETFOR,,,Alexandre Pereira Silva,Flórida,6899.13
+SETFOR,,,Adriana Albuquerque Nachon,Flórida,6899.13
+SEFIN,,,Flávia Roberta Bruno Teixeira,Paraíba,2714.22
+SEFIN,,,Francisco José Gomes,Paraíba,1457.61
+CGM,,,Maria Christina Machado Publio,Maranhão,1729.92
+ETUFOR,,,David Arison da Rocha Bezerra Cavalcante,Rio Grande do Sul,6672.92
+ETUFOR,,,César Leandro Batista Cavalcanti,Rio Grande do Sul,3336.46
+SEFIN,,,Edlene Valente Benevides,Rio Grande do Sul,10987.4
+,,,,,1587.74
+SEFIN,,,Rossana Catunda Resende Sousa,Rio Grande do Sul,3258.46
+SEFIN,,,Cinthya Maria Bezerra Diógenes,Rio Grande do Sul,3760.36
+SETFOR,,,Janaildo Soares de Sousa,Uruguai,5143.68
+SETFOR,,,George de Oliveira Melo,Uruguai,5143.68
+SESEC,,,Luís Eduardo Soares de Holanda,Rio de Janeiro,2448.32
+SETFOR,,,Flávio Gabriel Sousa Oliveira,Rio de Janeiro,2074.32
+SETFOR,,,Cristina Campos de Magalhães,Rio de Janeiro,3107.32
+SECULTFOR,,,Elpidio Nogueira Moreira,Distrito Federal,4203.89
+SMS,,,Galeno Taumaturgo Lopes,Distrito Federal,5394.0
+SMS,,,Charles Goiana de Andrade,Distrito Federal,5394.0
+GABPREF,,,José Sarto Nogueira Moreira,Eua,8690.86
+GABPREF,,,José Sarto Nogueira Moreira,Eua,798.79
+GABPREF,,,José Sarto Nogueira Moreira,Eua,666.48
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,10736.17
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,20908.66
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,800.43
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,666.49
+GABPREF,,,Renato Carvalho Borges,Eua,19714.97
+GABPREF,,,Renato Carvalho Borges,Eua,8978.8
+GABPREF,,,Renato Carvalho Borges,Eua,20908.66
+GABPREF,,,Renato Carvalho Borges,Eua,800.43
+SEFIN,,,Renato Carvalho Borges,Eua,666.49
+SEFIN,,,Lucinthya Maria Gomes da Silva,Eua,10736.18
+SEFIN,,,Lucinthya Maria Gomes da Silva,Eua,20908.66
+SEFIN,,,Lucinthya Maria Gomes da Silva,Eua,800.43
+SEFIN,,,Lucinthya Maria Gomes da Silva,Eua,666.48
+SDHDS,,,Ana Cristhina de Oliveira Brasil de Araújo,Distrito Federal,3858.89
+AMC,,,Eduardo Araújo de Aquino,Paraná,1792.62
+SEINF,,,Tiago Bruno Borges,Distrito Federal,5715.91
+IPLANFOR,,,Larissa de Miranda Menescal,Distrito Federal,11431.82
+IPLANFOR,,,Francisca Dalila Menezes Vasconcelos,Distrito Federal,5715.91
+REGIONAL 5,,,Adelina Ferrer Feitosa Carvalho,Distrito Federal,5715.92
+REGIONAL 5,,,Adelina Ferrer Feitosa Carvalho,Distrito Federal,492.81
+SEPOG,,,Emanuel Victor Louredo Herculano,São Paulo,9999.66
+SEPOG,,,Leonardo Pereira da Silva,São Paulo,4999.83
+CGM,,,Alana dos Reis Alves,São Paulo,4748.54
+SDHDS,,,Francisco José Pontes Ibiapina,Paraná,2788.7
+SDE,,,Rodrigo Nogueira Diogo de Siqueira,São Paulo,4190.87
+SDE,,,Erick Benevides de Vasconcelos,São Paulo,4190.87
+CGM,,,Juliana Guimarães de Oliveira,São Paulo,6250.94
+CGM,,,Silvia Helena Soares de Paula,São Paulo,3040.78
+GABVICE,,,José Élcio Batista,Pará,12102.18
+GABVICE,,,Beatriz Gonçalves Bley,Pará,6051.09
+IPLANFOR,,,Larissa de Miranda Menescal,Pará,6051.09
+IPM,,,Josué de Sousa Lima,São Paulo,1822.54
+GABVICE,,,José Élcio Batista,Eua,782.69
+SEGOV,,,Renato César Pereira Lima,Eua,777.81
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,8283.8
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,14003.21
+GABPREF,,,Joana Laura Marinho Nogueira,Eua,631.38
+SECULTFOR,,,Leiliane Batista Vasconcelos,Espírito Santo,4172.69
+SDHDS,,,Francisca Enilce Vieira Rocha,Bahia,3676.2
+SDHDS,,,Adriana Célia Pereira,Bahia,1838.1
+SMS,,,Maria Clarice Tavares Evangelista,Bahia,2904.51
+SMS,,,Cinthia Salgado Carmo Gomes Assunção,Bahia,5411.58
+,,,,Bahia,1554.31
+SMS,,,Emília Alves de Castro,Bahia,1554.31
+,,,,Bahia,1350.2
+SETFOR,,,Alexandre Pereira Silva,Distrito Federal,5910.61
+,,,,,1454.23
+FUNCI,,,Raimundo Gomes de Matos,Distrito Federal,7601.97
+IPEM,,,Francisco Barroso Rodrigues,Sergipe,3847.12
+AGEFIS,,,Márcio Adriano Barbosa Bezerra,Bahia,4140.74
+AGEFIS,,,Samya Coelho Marinho Almeida Lima,Bahia,2070.37
+AGEFIS,,,Lianna Campos de Sousa,Bahia,2070.37
+ACFOR,,,Albert Brasil Gradvohl,Distrito Federal,2606.38
+GMF,,,Aline Vitória Anselmo de Sousa,São Paulo,2211.33
+SETFOR,,,Alexandre Pereira Silva,Paraná,2853.78
+SETFOR,,,Valéria Maria Brito Cavalcante,Paraná,2853.78
+CLFOR,,,Maria Conceição Silva Cavalcante,Distrito Federal,5017.92
+CLFOR,,,Thayla Alves de Queiros Lira,Distrito Federal,2508.96
+SEGOV,,,Maria Eliani Diniz Dourado Arrais,São Paulo,4163.38
+SETFOR,,,Janaildo Soares de Sousa,Paraná,3648.26
+SEFIN,,,Flávia Roberta Bruno Teixeira,Espírito Santo,6566.63
+SEFIN,,,José Ítalo Bandeira Gomes,Espírito Santo,3324.87
+SEFIN,,,Valberto Alves Abreu,Espírito Santo,3603.46
+GABVICE,,,Cláudio Nelson Campos Brandão,Portugal,11947.69
+GABPREF,,,Francisca Moya Hirtez,Ceará,3529.51
+,,,,,398.52
+GABPREF,,,Yan Qiaoling,Ceará,31839.86
+GABPREF,,,Fernando Rodrigues Palacios,Ceará,4589.11
+GABPREF,,,Denise Maria Penna Kronemberger,Ceará,2618.67
+GABPREF,,,Fábio Donato de Almeida Tardim,Ceará,4159.61
+SEGOV,,,Renato César Pereira Lima,São Paulo,5362.16
+SEGOV,,,Renato César Pereira Lima,São Paulo,2913.81
+,,,,,1685.63
+SEGOV,,,Renato César Pereira Lima,São Paulo,630.01
+SDE,,,Rodrigo Nogueira Diogo de Siqueira,São Paulo,10263.01
+,,,,,5546.24
+SDE,,,Alana Norberto Sampaio,São Paulo,7281.34
+,,,,,2564.57
+GMF,,,Marcílio Linhares Távora,Rio de Janeiro,6800.42
+GMF,,,Vicente Ferreira de Alencar Filho,Rio de Janeiro,3400.21
+PGM,,,André Diego de Lima Leite,Distrito Federal,6235.12
+PROCON,,,Eneylandia Rabelo Lemos,São Paulo,4322.78
+GABVICE,,,José Élcio Batista,Alemanha,34758.81
+GABVICE,,,Netally de Oliveira Lima Pessoa,Alemanha,14819.12
+GABVICE,,,José Élcio Batista,Alemanha,2409.22
+GABVICE,,,Netally de Oliveira Lima Pessoa,Alemanha,1204.61
+IPLANFOR,,,Laura Janka Zires,Áustria,14541.37
+IPLANFOR,,,Laura Janka Zires,Áustria,738.03
+SME,,,Osvaldo Melo Negreiros Filho,Distrito Federal,4375.82
+FUNCI,,,Raimundo Gomes de Matos,Distrito Federal,6700.3
+SME,,,Simone Domingos Calandrine,São Paulo,3346.51
+CGM,,,Maria Christina Machado Publio,Mato Grosso do Sul,5419.01
+GABPREF,,,Aline Sá Gondim,São Paulo,3168.17
+,,,,,997.86
+,,,,,596.73
+,,,,,1613.52
+SETFOR,,,Alexandre Pereira Silva,Rio de Janeiro,2760.06
+SETFOR,,,Amanda Magna Alves de Castro,Rio de Janeiro,2899.83
+SETFOR,,,Paola Braga de Medeiros,Argentina,4394.58
+SETFOR,,,Adriana Albuquerque Nachón,Argentina,4394.58
+SMS,,,Brenda Mendes de Sousa Ricarte,Pernambuco,3325.4
+SMS,,,Ivina Helena Pereira da Silva,Pernambuco,1662.7
+SMS,,,Leticia Ferreira de Albuquerque Medeiros,Pernambuco,3325.4
+SMS,,,Cícero Vidal Sampaio,Pernambuco,1662.7
+SMS,,,Raimundo Nonato de Lima Amorim,Pernambuco,1662.7
+SMS,,,Maria Clarice Tavares Evangelista,Pernambuco,683.62
+PGM,,,Fernando Antônio Costa de Oliveira,São Paulo,5130.37
+SETFOR,,,Alexandre Pereira Silva,França,9782.13
+SETFOR,,,Cristina Campos de Magalhães,França,9782.13
+SECULTFOR,,,Elpídio Nogueira Moreira,Angola,18903.61
+SME,,,Terezinha Holanda Costa de Freitas,São Paulo,4897.96
+SEFIN,,,Rossana Catunda Resende Sousa,São Paulo,3814.13
+SEFIN,,,Cinthya Maria Bezerra Diógenes,São Paulo,2526.79
+SME,,,Antonia Dalila Saldanha de Freitas,São Paulo,5802.75
+ACFOR,,,Paulo Henrique Ellery Lustosa da Costa,São Paulo,5325.74
+ACFOR,,,Albert Brasil Gradvohl,São Paulo,2662.87
+CPDROGAS,,,Erasmo Lenz Cesar,Pernambuco,4444.89
+CPDROGAS,,,Letícia Abreu Gomes,Pernambuco,1481.63
+CPDROGAS,,,Vitória Nayara Guerra de Farias,Pernambuco,1481.63
+SEJUV,,,Davi Gomes Barroso,Pernambuco,1959.88
+GABVICE,,,Jammya Evven Leite de Figueiredo Gonçalves,Bélgica,12479.18
+GABPREF,,,Joana Laura Marinho Nogueira,Bélgica,13754.19
+GABPREF,,,Joana Laura Marinho Nogueira,Bélgica,373.54
+GABPREF,,,Joana Laura Marinho Nogueira,Bélgica,2500.01
+GABVICE,,,Alberto Dias Gadanha Júnior,Espanha,17811.04
+GABPREF,,,José Sarto Nogueira Moreira,São Paulo,5578.47
+GABPREF,,,José Sarto Nogueira Moreira,São Paulo,2709.27
+GABPREF,,,Renato Carvalho Borges,São Paulo,5441.04
+GABPREF,,,Renato Carvalho Borges,São Paulo,2466.07
+SEGOV,,,Renato César Pereira Lima,São Paulo,5441.04
+SEGOV,,,Renato César Pereira Lima,São Paulo,2466.07
+SEGOV,,,Maria Eliani Diniz Dourado Arrais,São Paulo,5441.04
+SEGOV,,,Maria Eliani Diniz Dourado Arrais,São Paulo,2466.07
+SEFIN,,,Lucinthya Maria Gomes da Silva,São Paulo,5273.22
+SEFIN,,,Lucinthya Maria Gomes da Silva,São Paulo,3698.59
+SEGOV,,,Daniel Mendes Aderaldo,São Paulo,3769.76
+SEGOV,,,Daniel Mendes Aderaldo,São Paulo,4875.89
+IPEM,,,José Lobo Filho,Rio de Janeiro,3055.94
+GABPREF,,,Angélica Leal de Oliveira,Distrito Federal,4053.11
+SDHDS,,,Francisca Enilce Vieira Rocha,Pernambuco,1401.44
+SDHDS,,,Andrea Rossati Farias Chaves,Distrito Federal,5648.42
+AMC,,,Eduardo Araújo de Aquino,Distrito Federal,4179.43
+AMC,,,Antônio Silva Ferreira,Bahia,4463.53
+GABVICE,,,José Élcio Batista,Paraná,13947.16
+GABVICE,,,Beatriz Gonçalves Bley,Paraná,6973.58
+SEPOG,,,Mário Fracalossi Júnior,Rio de Janeiro,3565.89
+SETFOR,,,Alexandre Pereira Silva,São Paulo,4311.25
+,,,,,1490.72
+SMS,,,Harrismana de Andrade Pinto,Pernambuco,1458.41
+SEPOG,,,Remulo Pereira Viana,Paraná,5201.65
+SME,,,Leonardo José do Nascimento Duarte,Paraná,4753.59
+,,,,,59.01
+SEINF,,,Guilherme Teles Gouveia Neto,São Paulo,6287.19
+IPM,,,Josué de Sousa Lima,Mato Grosso,3958.45
+SME,,,Antonia Dalila Saldanha de Freitas,Rio Grande do Sul,6717.93
+SME,,,Marisa Botão de Aquino,Rio Grande do Sul,6970.32
+SEFIN,,,Francisco José Gomes,Distrito Federal,3376.85
+GABPREF,,,Esther Hilma Zaranza Mesquita Viana,Santa Catarina,4439.89
+SEFIN,,,Flávia Roberta Bruno Teixeira,Distrito Federal,3224.99
+,,,,,1640.56
+SETFOR,,,Alexandre Pereira Silva,Rio Grande do Sul,3272.43
+SDHDS,,,Andrea Rossati Farias Chaves,Rio de Janeiro,5183.09
+SDHDS,,,Sérgio Murilo Silva Granja,Distrito Federal,3671.32
+SEFIN,,,José Ítalo Bandeira Gomes,Distrito Federal,16822.38
+SEFIN,,,Valberto Alves Abreu,Distrito Federal,5607.46
+SEFIN,,,José Maciel Cavalcante Neto,Distrito Federal,5607.46
+SEFIN,,,Karina Oliveira Câmara,Sergipe,6589.62
+SEFIN,,,Lucenildes Alves Diniz,Sergipe,3294.81
+,,,,,2914.18
+CGM,,,Maria Christina Machado Publio,Paraíba,5829.37
+SME,,,Antonia Dalila Saldanha de Freitas,Espírito Santo,3901.8
+CGM,,,Lilian Mariano Fontele,Distrito Federal,3459.88
+SMS,,,Larissa Maria Porto Caminha de Castro DallOlio,Distrito Federal,3459.88
+ADEMFOR,,,Marcelo Jorge Borges Pinheiro,Santa Catarina,16325.44
+ADEMFOR,,,Leonardo Arruda Torquato Scorsafava,Santa Catarina,2727.54
+ADEMFOR,,,Marcelo Jorge Borges Pinheiro,Santa Catarina,3117.42
+ADEMFOR,,,Leonardo Arruda Torquato Scorsafava,Santa Catarina,3117.42
+ADEMFOR,,,Marcelo Jorge Borges Pinheiro,Santa Catarina,2317.76
+ADEMFOR,,,Leonardo Arruda Torquato Scorsafava,Santa Catarina,2317.76
+SEGOV,,,Caio César Nepomuceno Braga,São Paulo,3930.39
+SEGOV,,,Maria Eliani Diniz Dourado Arrais,São Paulo,3863.16
+ETUFOR,,,Ana Cláudia Ferreira da Silva,São Paulo,8555.86
+ETUFOR,,,Caleb Cefas de Araújo Bastos,São Paulo,4277.93
+SME,,,Francisca Mônica Silva da Costa,Pernambuco,829.63
+GABVICE,,,Netally de Oliveira Lima Pessoa,Distrito Federal,6303.76
+,,,,,108.01
+SDHDS,,,Emiliana de Freitas da Silva,Distrito Federal,5130.34
+SDHDS,,,Viviane Mayves Ribeiro dos Santos,Distrito Federal,2565.17
+SDHDS,,,Andrea Rossati Farias Chaves,Distrito Federal,2227.04
+SETFOR,,,Suemy Andrade Vasconcelos,Distrito Federal,1648.02
